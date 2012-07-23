@@ -14,7 +14,7 @@ I recently read an article that posed the question "[Does your dock reflect your
 
 ### iPhone dock
 
-<img src="/files/2012/05/iphone.png" alt="iPhone homescreen" />
+<img src="/files/2012/07/iphone.png" alt="iPhone homescreen" />
 
 - *Phone app*: pretty self explanatory
 - *Safari*: Still the best mobile browser I think (though if Google ever gets going on a proper Chrome browser for Android that may change)
@@ -23,7 +23,7 @@ I recently read an article that posed the question "[Does your dock reflect your
 
 ### iPad dock
 
-<img src="/files/2012/05/ipad.png" alt="iPhone homescreen" />
+<img src="/files/2012/07/ipad.png" alt="iPhone homescreen" />
 
 - *Safari*: Safari on iPad is not as good as the iPhone version - it can be more full featured I think!
 - *Mail app*: E-mail on the iPad is one of the most popular uses, it's got just the right amount of screen real-estate to do it justice
