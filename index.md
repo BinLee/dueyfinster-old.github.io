@@ -18,7 +18,7 @@ If there is anything you wish to say or to give me feedback, you can always cont
  {% for post in site.posts limit:7 offset:0 %}
  <tr>
                <th>{{ post.date | date_to_string }}</th>
-      <td><a href='{{ post.url }}'>{{ post.title }}</a></td>         
+      <td> <a href='{{ post.url }}'>{{ post.title }}</a></td>         
  </tr>
       {% endfor %} 
              </table>
