@@ -1,22 +1,24 @@
 
-http://neil.grogan.ie/404.html
-http://neil.grogan.ie/about.html
 http://neil.grogan.ie/archive.html
 http://neil.grogan.ie/categories.html
-http://neil.grogan.ie/feed/atom.xml
-http://neil.grogan.ie/feed/atom.xsl
-http://neil.grogan.ie/feed/podcast.xml
-http://neil.grogan.ie/feed/rss.xml
-http://neil.grogan.ie/files/2009/10/neil.asc
-http://neil.grogan.ie/files/2012/04/2D7027B1.asc
-http://neil.grogan.ie/index.html
-http://neil.grogan.ie/links.html
-http://neil.grogan.ie/pages.html
+http://neil.grogan.ie/about.html
 http://neil.grogan.ie/sitemap.txt
-http://neil.grogan.ie/sitemap.xml
+http://neil.grogan.ie/index.html
 http://neil.grogan.ie/sitemap.xsl
+http://neil.grogan.ie/404.html
+http://neil.grogan.ie/feed/podcast.xml
+http://neil.grogan.ie/feed/atom.xsl
+http://neil.grogan.ie/feed/atom.xml
+http://neil.grogan.ie/feed/rss.xml
 http://neil.grogan.ie/tags.html
+http://neil.grogan.ie/links.html
+http://neil.grogan.ie/sitemap.xml
+http://neil.grogan.ie/files/2012/04/2D7027B1.asc
+http://neil.grogan.ie/files/2009/10/neil.asc
+http://neil.grogan.ie/pages.html
 
+http://neil.grogan.ie/2012/07/23/whats-in-your-dock/
+http://neil.grogan.ie/2012/05/07/programming-is-hard/
 http://neil.grogan.ie/2012/05/01/notepad-a-great-windows-editor/
 http://neil.grogan.ie/2012/04/29/record-your-terminal-session/
 http://neil.grogan.ie/2012/04/27/ikea-in-the-tv-business/

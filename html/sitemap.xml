@@ -5,120 +5,120 @@
 	<!--Start of Main Page-->
 	
   	<url>
-		<loc>http://neil.grogan.ie/404.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/about.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
 		<loc>http://neil.grogan.ie/archive.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
   	<url>
 		<loc>http://neil.grogan.ie/categories.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
   	<url>
-		<loc>http://neil.grogan.ie/feed/atom.xml</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/feed/atom.xsl</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/feed/podcast.xml</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/feed/rss.xml</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/files/2009/10/neil.asc</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/files/2012/04/2D7027B1.asc</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/index.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/links.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
-		<changefreq>daily</changefreq>
-		<priority>1.0</priority>
-	</url>
-	
-  	<url>
-		<loc>http://neil.grogan.ie/pages.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<loc>http://neil.grogan.ie/about.html</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
   	<url>
 		<loc>http://neil.grogan.ie/sitemap.txt</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
   	<url>
-		<loc>http://neil.grogan.ie/sitemap.xml</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<loc>http://neil.grogan.ie/index.html</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
   	<url>
 		<loc>http://neil.grogan.ie/sitemap.xsl</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/404.html</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/feed/podcast.xml</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/feed/atom.xsl</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/feed/atom.xml</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/feed/rss.xml</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
 	
   	<url>
 		<loc>http://neil.grogan.ie/tags.html</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/links.html</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/sitemap.xml</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/files/2012/04/2D7027B1.asc</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/files/2009/10/neil.asc</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+	
+  	<url>
+		<loc>http://neil.grogan.ie/pages.html</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>daily</changefreq>
 		<priority>1.0</priority>
 	</url>
@@ -127,1212 +127,1226 @@
 	<!--Start of Blog Category-->
 	
 	<url>
+		<loc>http://neil.grogan.ie/2012/07/23/whats-in-your-dock/</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	
+	<url>
+		<loc>http://neil.grogan.ie/2012/05/07/programming-is-hard/</loc>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	
+	<url>
 		<loc>http://neil.grogan.ie/2012/05/01/notepad-a-great-windows-editor/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/04/29/record-your-terminal-session/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/04/27/ikea-in-the-tv-business/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/03/19/the-acr884-tech-slot-005/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/02/20/acr884-tech-slot-004/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/02/04/the-best-cookbook/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/02/01/very-simple-java-twitter-bot-twitter4j/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/25/irish-sopa-law-an-overview/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/23/is-4k-the-new-3d-the-networked-society-blog/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/21/nuke-support-in-uk-hits-record-high/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/18/why-are-android-smartphones-bigger-than-the-iphone/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/18/air-france-447-flight-data-recorder-transcript-what-really-happened-aboard-air-france-447-popular-mechanics/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/16/acr884-tech-slot-003/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/12/acr884-tech-slot-002-tablets/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2012/01/12/acr884-ep001/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/12/03/dont-get-a-kindle/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/11/26/all-about-platforms/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/11/22/hollywood-tech/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/11/19/faster-with-arch/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/11/01/site-improv/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/09/12/nerf-war/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/08/27/review-of-motorola-xoom-wifi/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/08/16/usb-headset-review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/07/13/tech-video-podcasts-worth-watching/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/06/30/paradox-of-choice/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/06/29/accidental-sea-when-humans-disappear/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/06/13/software-engineering-job/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/06/02/inter-railing-around-europe/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/05/25/final-year-of-honours-degree-complete/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/05/19/mobile-carrier-charges/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/05/14/waterfall/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/05/11/cleaning-your-ps3s-fans/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/05/09/geocampus/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/03/05/senn-review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/02/18/iphone4-review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/02/09/thoughts-on-ipv6/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/02/05/output-percentage-of-file-bash-code/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2011/01/31/blogging-like-h4x0r/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/11/22/my-top-chrome-extensions/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/10/29/first-video-blog/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/10/26/ipad-evolution/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/10/01/alternative-interpretation-of-prodigy/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/08/04/motorcycle-gps/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/06/20/bsc-in-computing/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/06/06/haiku-open-source-beos-clone/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/05/30/webm-promises-open-web-video/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/05/24/honda-bros-motorcycle/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/05/03/bit-of-bau/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/04/01/donating-to-charity/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/03/17/computer-graphics-bauhaus-chess-design/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/03/09/interview-being-woman-in-computer/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/01/04/technology-new-years-resolutions/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2010/01/03/dogs-chew-things/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/12/13/years-10m-8km-makes-world-biggest/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/12/12/best-kdelinux/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/12/07/why-should-i-care-what-color-bikeshed/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/12/04/pulp-fiction-theme/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/12/02/cheesy-intel-ad/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/12/01/yamaha-majesty-400c-review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/11/30/sony-subsidises-supercomputers-for-us/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/11/28/nuclear-power-debates-why-not-in/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/11/28/fans/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/11/24/is-mac-pro-overpriced/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/04/20/3g-coverage-in-ireland/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/04/09/iphone-3g-review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/03/26/eircom-responds/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/03/07/this-post-is-censored-by-irma/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/03/07/love-letter-to-irmas-solicitor/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/01/26/linux-desktop-environments/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/01/21/ubuntu-in-four-years/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2009/01/04/beta-2/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/12/09/firefox-and-opera-lead-web-video-way/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/29/profiling-firefox-extensions-i-have/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/27/research-proves-video-games-lack-harm/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/23/how-led-was-born/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/17/ssh-guide/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/16/web-multimedia-project-1/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/13/gmail-video-chat/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/11/12/innovation-right-here-dept-of-education/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/10/25/domo-arigato-mr-roboto/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/10/19/hurling-four-in-row/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/09/25/geek-thug-i-had-to-beat-up-girl/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/09/17/yamaha-yq-aerox-best-moped-ever/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/09/10/wordpress-26/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/06/29/summer-one-month-on/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/05/14/ive-decided-im-decidedly-middle-class/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/04/09/will-google-buy-skype/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/02/16/year/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/02/14/why-i-think-amarock-rocks/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2008/01/13/few-days-with-nokia-n810/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/10/21/tablet-to-hit-shops-soon/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/10/21/apple-mac-os-x-most-popular-desktop/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/10/12/linux-and-patents-just-patently-wrong/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/10/09/planning-computer-build/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/09/27/computer-systems-dismantling-pcs-is-fun/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/09/15/apple-play-nice/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/09/07/comp-sci-interview-with-stanfords/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/09/04/review-of-official-ubuntu-book-second/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/09/01/institute-of-technology-blanchardstown/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/08/31/microsoft-settles-with-eolas-over/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/08/29/gutsy-coming-along-update-to-dell/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/08/21/dell-refunds-me-for-windows/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/08/16/have-you-got-viruses-or-spyware-heres/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/08/06/seven-financial-reasons-not-to-use/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/07/08/hp-to-follow-dell-into-open-source/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/07/03/windows-vista-security-better-than/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/06/26/threats-to-democracy/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/06/16/leopard-worth-wait/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/06/14/review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/05/29/bill-gates-lists-vista/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/05/26/dell-sells-ubuntu-704/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/05/17/update-on-rte-and-creative-commons/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/05/06/kerataconus-me/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/05/06/irish-elections-creative-commons/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/04/16/ultimate-games-disc/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/04/04/apple-emi-deal-thank-eu/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/04/01/applications-of-2007/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/03/11/mac-ipod-video-tutorial/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/03/10/tor-helps-privacy/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/03/01/open-sourcing-your-cv/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/02/17/uk-parliamentary-debate-is-not-pension/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/02/14/updates-and-new-look/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/02/11/review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/02/02/vista-is-released-ubuntu-gets-exe/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/01/30/my-plan-to-digitise-my-past-for-future/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/01/25/bbc-to-host-multi-os-debate-my-first/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/01/21/get-facts-about-get-facts/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2007/01/14/engineering-drawing/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/12/31/new-widget-for-our-rss-feed/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/12/30/video-ipod-and-freespire/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/12/19/free-domain-name-off-aol-too-good-to-be/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/12/13/irish-blog-awards/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/12/10/video-test/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/12/05/home-made-server/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/11/19/iedr-too-stringent-sorry-about-my-email/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/11/12/wiki-goes-live-downtime-and-macbook/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/11/03/broken-macbook-update-part-ii/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/11/01/macbook-issue-identified/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/10/26/internet-explorer-thanks-firefox/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/10/25/blog-updates-calendar-updates-broken/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/10/18/best-bush-satire-ever/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/10/10/google-buy-youtube-gtalk-for-everyone/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/08/16/macbook-update-fonero-haven-commercial/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/08/12/feel-i-need-to-confess-why-i-am-buying/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/08/02/law-and-interweb/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/07/12/new-design-ranking-gmail-hosted-os-2006/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/07/03/my-letter-to-us-dept-of-commerce-re/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/06/23/questions-hosting-and-it-2006/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/06/04/fon-new-job-and-commuting/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/05/11/nuclear-or-nothing/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/05/02/best-radio-podcasts/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/04/29/spam-will-it-ever-stop/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/04/16/google-will-organise-your-life/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/04/13/ekigas-vorbis/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/04/09/europes-new-voice/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/03/28/bebo-and-beyond/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/03/26/mozillas-millions/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/03/25/just-klik-it/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/03/10/virtual-ubuntu/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/03/06/linux-vs-windows/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/03/02/gallery-riots-and-policy-change/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/02/13/german-trip/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/01/22/wiki-awards-and-wifi/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2006/01/06/new-year-lets-review/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/30/million-dollars-nice/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/23/internet-tablet/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/23/google-video/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/23/click-online/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/17/eurosceptics/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/16/future/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/14/in-sickness-and-in-health/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2005/12/10/wireless-new-design-and-web-services/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
 	
 	<url>
 		<loc>http://neil.grogan.ie/2004/10/24/duey-finster/</loc>
-		<lastmod>2012-05-02T14:30:22+01:00</lastmod>
+		<lastmod>2012-08-13T11:48:36+01:00</lastmod>
 		<changefreq>monthly</changefreq>
 		<priority>0.2</priority>
 	</url>
