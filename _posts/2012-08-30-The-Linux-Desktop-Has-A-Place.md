@@ -1,3 +1,12 @@
+---
+layout: post
+title: "The Linux Desktop has a place"
+description: ""
+category: Linux
+tags: [linux, open source]
+---
+{% include JB/setup %}
+
 I've seen an article by Miguel de Icaza, a great developer oft criticised for his love of Microsoft technologies on Linux. His [latest piece] is about his love for Mac OS X as a desktop and how he used to feel guilty about it (given his very impressive open source credentials). 
 
 I used to feel the same also. Android even as a platform more closely follows my ideals, yet I am exclusively an avid iOS user at this point. But as I've learned more, the importance of pragmatism is clear. I use my personal iOS devices for countless hours a day and I really just want them to work. I want them to work in the way they were designed to do: quickly check email, browse the web, make calls, check messages and so forth.
