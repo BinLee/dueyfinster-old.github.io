@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Is 4K the new 3D? - The Networked Society Blog
-category:
-- Article
 tags:
 - Hardware
 - insights

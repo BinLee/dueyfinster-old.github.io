@@ -2,7 +2,6 @@
 layout: post
 title: "What's in your dock?"
 description: ""
-category: Apple
 tags: [Apple, iPad, iPhone]
 ---
 {% include JB/setup %}

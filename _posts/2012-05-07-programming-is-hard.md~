@@ -2,6 +2,7 @@
 layout: post
 title: "Programming is hard"
 description: ""
+category: 
 tags: []
 ---
 {% include JB/setup %}

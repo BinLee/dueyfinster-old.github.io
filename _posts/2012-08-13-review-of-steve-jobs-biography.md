@@ -2,7 +2,6 @@
 layout: post
 title: "Review of Steve Jobs Biography"
 description: ""
-category: Apple
 tags: [apple, steve jobs, pixar, disney]
 ---
 {% include JB/setup %}

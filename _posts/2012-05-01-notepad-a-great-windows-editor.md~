@@ -2,6 +2,9 @@
 layout: post
 title: "Notepad++: A Great Windows Editor"
 description: "Why I think Notepad++ is one of the best windows text editors"
+category: 
+- Windows
+- Software
 tags: [notepad, windows, software, editors]
 ---
 {% include JB/setup %}
