@@ -3,13 +3,43 @@
   <title>Neil Grogans Site</title>
   <link href="http://neil.grogan.ie/"/>
   <link type="application/atom+xml" rel="self" href="http://neil.grogan.ie/atom.xml"/>
-  <updated>2013-03-09T18:50:59+00:00</updated>
+  <updated>2013-03-09T20:06:54+00:00</updated>
   <id>http://neil.grogan.ie/</id>
   <author>
     <name>Neil Grogan</name>
     <email>neil+atomfeed@grogan.ie</email>
   </author>
 
+  
+  <entry>
+    <id>http://neil.grogan.ie/2013/03/tor-talks</id>
+    <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2013/03/tor-talks.html"/>
+    <title>Tor Talks</title>
+    <updated>2013-03-09T00:00:00+00:00</updated>
+    <author>
+      <name>Neil Grogan</name>
+      <uri>http://neil.grogan.ie/</uri>
+    </author>
+    <content type="html">
+&lt;p&gt;If you haven&amp;#8217;t heard of Tor, it is alternative internet - one with 
+privay in mind. I&amp;#8217;ve recently started to watch a lot of technical 
+talks online. The two main guys behind Tor are some of the best 
+speakers I&amp;#8217;ve seen. They describe in great detail how open source 
+works and the myriad of open source projects around Tor in this talk:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/bmj2w9HPPaE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;and in an older talk they describe how countries have tried to censor
+Tor and how they have combatted some censorship (interesting for the
+technical measures deployed):&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/GwMr8Xl7JMQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Of course as is metioned in the first talk, Tor is mainly funded by the US 
+Government. Asked why they should be trusted - they say they shouldn&amp;#8217;t be.
+Don your tinfoil hat now!&lt;/p&gt;
+</content>
+  </entry>
   
   <entry>
     <id>http://neil.grogan.ie/2013/01/stitcher-is-audio-podcasts-done-right</id>

@@ -6,9 +6,36 @@
     <atom:link href="http://neil.grogan.ie/rss.xml" rel="self" type="application/rss+xml" />
     <description>Blog Posts by Neil Grogan</description>
     <language>en-us</language>
-    <pubDate>Sat, 09 Mar 2013 18:50:59 GMT</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2013 18:50:59 GMT</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2013 20:06:54 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2013 20:06:54 GMT</lastBuildDate>
 
+    
+    <item>
+      <title>Tor Talks</title>
+      <link>http://neil.grogan.ie/2013/03/tor-talks.html</link>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 GMT</pubDate>
+      <author>Neil Grogan</author>
+      <guid>http://neil.grogan.ie/2013/03/tor-talks</guid>
+      <description>
+&lt;p&gt;If you haven&amp;#8217;t heard of Tor, it is alternative internet - one with 
+privay in mind. I&amp;#8217;ve recently started to watch a lot of technical 
+talks online. The two main guys behind Tor are some of the best 
+speakers I&amp;#8217;ve seen. They describe in great detail how open source 
+works and the myriad of open source projects around Tor in this talk:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/bmj2w9HPPaE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;and in an older talk they describe how countries have tried to censor
+Tor and how they have combatted some censorship (interesting for the
+technical measures deployed):&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/GwMr8Xl7JMQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Of course as is metioned in the first talk, Tor is mainly funded by the US 
+Government. Asked why they should be trusted - they say they shouldn&amp;#8217;t be.
+Don your tinfoil hat now!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Stitcher is (audio) podcasts done right</title>
