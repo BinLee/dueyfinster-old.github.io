@@ -25,5 +25,3 @@ If there is anything you wish to say or to give me feedback, you can always cont
 </aside>
 <!-- End of Display Recent Posts -->
 <br />
-<br />
-
