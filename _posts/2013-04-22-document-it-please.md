@@ -5,7 +5,6 @@ description: ""
 category: 
 tags: []
 ---
-{% include JB/setup %}
 
 Very good technical documentation skills are a must for any Software Engineer - to explain how a system works in detail forces you to think about the flaws present within the design. "Bad smells" of documentation often can be a sign of weaknesses on your product. Is this section too verbose or did we make it too complex for the customer? Should we explain ancillary parts of our system (either operating system components or other applications?)  within our documentation besides the inherent risks (out-of-date documentation)?
 
