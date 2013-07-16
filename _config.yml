@@ -3,7 +3,6 @@
 permalink: /:year/:month/:title.html
 markdown: kramdown 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: false
 pygments: true
 destination: ./html
 

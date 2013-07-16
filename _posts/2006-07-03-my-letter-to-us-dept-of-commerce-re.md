@@ -8,7 +8,7 @@ time: 2006-07-03 20:59:00 +01:00
 This is my letter to U.S. Dept. of
 Commerce, stating what I believe should happen to the Internet. Fell
 free to email your opinions to them directly: *
-[DNSTransition@ntia.doc.gov](mailto:DNSTransition@ntia.doc.gov)*. As a
+[DNSTransition@ntia.doc.gov](DNSTransition@ntia.doc.gov)*. As a
 net citizen, get your voice heard on the most important public debate of
 our times!  
 Dear Sir/Madam,  
