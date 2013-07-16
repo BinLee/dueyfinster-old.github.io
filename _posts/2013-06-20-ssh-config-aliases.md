@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Custom Colourful Bash Prompt"
+title: "SSH Config Aliases"
 description: ""
 category: 
 tags: []
