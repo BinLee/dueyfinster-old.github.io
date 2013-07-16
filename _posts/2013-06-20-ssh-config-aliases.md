@@ -35,7 +35,7 @@ The ssh man page explains this really well:
 
 > The following pattern would match any host in the 192.168.0.[0-9] network
      range:
->	Host 192.168.0.?
+>	Host 192.168.0.? 
 
 >A pattern-list is a comma-separated list of patterns.  Patterns within
      pattern-lists may be negated by preceding them with an exclamation mark
