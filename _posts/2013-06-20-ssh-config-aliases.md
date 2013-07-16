@@ -11,7 +11,18 @@ If your like me and you deal with a lot of servers for development or test and d
 
 Say I've got a SSH config file like this (at <span style="font-family: &quot;Courier New&quot;,Courier,monospace;">~/.ssh/config</span>):
 
-<script src="https://gist.github.com/dueyfinster/5822509.js"></script>
+    host s*
+        HostName atrcu%h.example.com
+        User example1
+        Port 22
+    host b*
+        HostName atrcx%h.example.com
+        User example2
+        Port 22
+    host ??*
+        HostName atvts%h.example.com
+        User example5
+        Port 2205
 
 The ssh man page explains this really well:
 <blockquote>
