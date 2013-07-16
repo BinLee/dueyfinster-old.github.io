@@ -30,13 +30,10 @@ The ssh man page explains this really well:
      matches exactly one character).  For example, to specify a set of decla-
      rations for any host in the .co.uk set of domains, the following pat-
      tern could be used:
-
 >	Host *.co.uk
-
 > The following pattern would match any host in the 192.168.0.[0-9] network
      range:
 >	Host 192.168.0.? 
-
 >A pattern-list is a comma-separated list of patterns.  Patterns within
      pattern-lists may be negated by preceding them with an exclamation mark
      ('!').  For example, to allow a key to be used from anywhere within an
