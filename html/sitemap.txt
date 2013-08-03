@@ -2,6 +2,7 @@
 http://neil.grogan.ie/404.html
 http://neil.grogan.ie/archive.html
 http://neil.grogan.ie/categories.html
+http://neil.grogan.ie/cv/index.html
 http://neil.grogan.ie/feed/atom.xml
 http://neil.grogan.ie/feed/atom.xsl
 http://neil.grogan.ie/feed/podcast.xml
@@ -17,6 +18,9 @@ http://neil.grogan.ie/sitemap.xml
 http://neil.grogan.ie/sitemap.xsl
 http://neil.grogan.ie/tags.html
 
+http://neil.grogan.ie/2013/06/ssh-config-aliases.html
+http://neil.grogan.ie/2013/05/custom-colourful-bash-prompt.html
+http://neil.grogan.ie/2013/04/document-it-please.html
 http://neil.grogan.ie/2013/03/tor-talks.html
 http://neil.grogan.ie/2013/01/stitcher-is-audio-podcasts-done-right.html
 http://neil.grogan.ie/2012/12/first-experiences-with-arm-chromebook.html
