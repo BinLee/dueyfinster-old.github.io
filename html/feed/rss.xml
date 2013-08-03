@@ -6,14 +6,14 @@
     <atom:link href="http://neil.grogan.ie/rss.xml" rel="self" type="application/rss+xml" />
     <description>Blog Posts by Neil Grogan</description>
     <language>en-us</language>
-    <pubDate>Sat, 20 Jul 2013 13:50:59 IST</pubDate>
-    <lastBuildDate>Sat, 20 Jul 2013 13:50:59 IST</lastBuildDate>
+    <pubDate>Sat, 03 Aug 2013 18:18:02 CEST</pubDate>
+    <lastBuildDate>Sat, 03 Aug 2013 18:18:02 CEST</lastBuildDate>
 
     
     <item>
       <title>SSH Config Aliases</title>
       <link>http://neil.grogan.ie/2013/06/ssh-config-aliases.html</link>
-      <pubDate>Thu, 20 Jun 2013 00:00:00 IST</pubDate>
+      <pubDate>Thu, 20 Jun 2013 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2013/06/ssh-config-aliases</guid>
       <description>&lt;p&gt;If your like me and you deal with a lot of servers for development or test and do it from a Unix machine, I&amp;#8217;ve got a really handy tip: SSH hostname pattern matching.&lt;/p&gt;
@@ -79,7 +79,7 @@ host ??*
     <item>
       <title>Custom Colourful Bash Prompt</title>
       <link>http://neil.grogan.ie/2013/05/custom-colourful-bash-prompt.html</link>
-      <pubDate>Fri, 10 May 2013 00:00:00 IST</pubDate>
+      <pubDate>Fri, 10 May 2013 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2013/05/custom-colourful-bash-prompt</guid>
       <description>&lt;p&gt;Bash, a command line shell is one of the most used pieces of software in my daily work. I like scripting repetitive actions to save a lot time (it brings me great joy!). One of the simplest and easiest customisations is to add a bit of colour to your otherwise boring bash prompt (otherwise known as $PS1):&lt;/p&gt;
@@ -103,7 +103,7 @@ host ??*
     <item>
       <title>Document it Please</title>
       <link>http://neil.grogan.ie/2013/04/document-it-please.html</link>
-      <pubDate>Mon, 22 Apr 2013 00:00:00 IST</pubDate>
+      <pubDate>Mon, 22 Apr 2013 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2013/04/document-it-please</guid>
       <description>&lt;p&gt;Very good technical documentation skills are a must for any Software Engineer - to explain how a system works in detail forces you to think about the flaws present within the design. &amp;#8220;Bad smells&amp;#8221; of documentation often can be a sign of weaknesses on your product. Is this section too verbose or did we make it too complex for the customer? Should we explain ancillary parts of our system (either operating system components or other applications?)  within our documentation besides the inherent risks (out-of-date documentation)?&lt;/p&gt;
@@ -117,7 +117,7 @@ host ??*
     <item>
       <title>Tor Talks</title>
       <link>http://neil.grogan.ie/2013/03/tor-talks.html</link>
-      <pubDate>Sat, 09 Mar 2013 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 09 Mar 2013 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2013/03/tor-talks</guid>
       <description>
@@ -144,7 +144,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <item>
       <title>Stitcher is (audio) podcasts done right</title>
       <link>http://neil.grogan.ie/2013/01/stitcher-is-audio-podcasts-done-right.html</link>
-      <pubDate>Tue, 22 Jan 2013 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 22 Jan 2013 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2013/01/stitcher-is-audio-podcasts-done-right</guid>
       <description>
@@ -178,7 +178,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <item>
       <title>First Experiences with an ARM Chromebook</title>
       <link>http://neil.grogan.ie/2012/12/first-experiences-with-arm-chromebook.html</link>
-      <pubDate>Sat, 08 Dec 2012 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 08 Dec 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/12/first-experiences-with-arm-chromebook</guid>
       <description>
@@ -197,7 +197,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <item>
       <title>Chrome vs. Internet Explorer Audience</title>
       <link>http://neil.grogan.ie/2012/10/chrome-vs-internet-explorer-audience.html</link>
-      <pubDate>Tue, 30 Oct 2012 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 30 Oct 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/10/chrome-vs-internet-explorer-audience</guid>
       <description>
@@ -223,7 +223,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <item>
       <title>Grab the Popcorn!</title>
       <link>http://neil.grogan.ie/2012/10/grab-popcorn.html</link>
-      <pubDate>Tue, 02 Oct 2012 00:00:00 IST</pubDate>
+      <pubDate>Tue, 02 Oct 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/10/grab-popcorn</guid>
       <description>
@@ -244,7 +244,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <item>
       <title>Tonsillectomy</title>
       <link>http://neil.grogan.ie/2012/09/tonsillectomy.html</link>
-      <pubDate>Sun, 09 Sep 2012 00:00:00 IST</pubDate>
+      <pubDate>Sun, 09 Sep 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/09/tonsillectomy</guid>
       <description>
@@ -351,7 +351,7 @@ I forget to drink water for a period and my thorat is dry. If you suffer from  d
     <item>
       <title>The Linux Desktop has a place</title>
       <link>http://neil.grogan.ie/2012/08/the-linux-desktop-has-place.html</link>
-      <pubDate>Thu, 30 Aug 2012 00:00:00 IST</pubDate>
+      <pubDate>Thu, 30 Aug 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/08/the-linux-desktop-has-place</guid>
       <description>
@@ -373,7 +373,7 @@ I forget to drink water for a period and my thorat is dry. If you suffer from  d
     <item>
       <title>Review of Steve Jobs Biography</title>
       <link>http://neil.grogan.ie/2012/08/review-of-steve-jobs-biography.html</link>
-      <pubDate>Mon, 13 Aug 2012 00:00:00 IST</pubDate>
+      <pubDate>Mon, 13 Aug 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/08/review-of-steve-jobs-biography</guid>
       <description>
@@ -404,7 +404,7 @@ publish due to Apple&amp;#8217;s corporate strategy being tied to Jobs so much
     <item>
       <title>What's in your dock?</title>
       <link>http://neil.grogan.ie/2012/07/whats-in-your-dock.html</link>
-      <pubDate>Mon, 23 Jul 2012 00:00:00 IST</pubDate>
+      <pubDate>Mon, 23 Jul 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/07/whats-in-your-dock</guid>
       <description>
@@ -448,7 +448,7 @@ publish due to Apple&amp;#8217;s corporate strategy being tied to Jobs so much
     <item>
       <title>Programming is hard</title>
       <link>http://neil.grogan.ie/2012/05/programming-is-hard.html</link>
-      <pubDate>Mon, 07 May 2012 00:00:00 IST</pubDate>
+      <pubDate>Mon, 07 May 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/05/programming-is-hard</guid>
       <description>
@@ -491,7 +491,7 @@ understanding of programming.&lt;/p&gt;
     <item>
       <title>Notepad++: A Great Windows Editor</title>
       <link>http://neil.grogan.ie/2012/05/notepad-a-great-windows-editor.html</link>
-      <pubDate>Tue, 01 May 2012 00:00:00 IST</pubDate>
+      <pubDate>Tue, 01 May 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/05/notepad-a-great-windows-editor</guid>
       <description>
@@ -514,7 +514,7 @@ understanding of programming.&lt;/p&gt;
     <item>
       <title>Record your terminal session</title>
       <link>http://neil.grogan.ie/2012/04/record-your-terminal-session.html</link>
-      <pubDate>Sun, 29 Apr 2012 00:00:00 IST</pubDate>
+      <pubDate>Sun, 29 Apr 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/04/record-your-terminal-session</guid>
       <description>
@@ -537,7 +537,7 @@ understanding of programming.&lt;/p&gt;
     <item>
       <title>Ikea in the TV Business?</title>
       <link>http://neil.grogan.ie/2012/04/ikea-in-the-tv-business.html</link>
-      <pubDate>Fri, 27 Apr 2012 00:00:00 IST</pubDate>
+      <pubDate>Fri, 27 Apr 2012 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/04/ikea-in-the-tv-business</guid>
       <description>
@@ -562,7 +562,7 @@ almost everyones home. They don&amp;#8217;t fit in our units, the cables are in 
     <item>
       <title>The @ACR884 Tech Slot #005</title>
       <link>http://neil.grogan.ie/2012/03/the-acr884-tech-slot-005.html</link>
-      <pubDate>Mon, 19 Mar 2012 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 19 Mar 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/03/the-acr884-tech-slot-005</guid>
       <description>&lt;p&gt;Our fifth slot on &lt;a href=&quot;http://athlonecommunityradio.ie/&quot; title=&quot;Athlone Community Radio&quot;&gt;Athlone Community Radio&lt;/a&gt;. Aired the third Monday in March 2012 on ACR 88.4FM in Athlone, Co. Westmeath, Ireland.&lt;/p&gt;
@@ -596,7 +596,7 @@ on the market and the launch of the iPad 3.&lt;/p&gt;
     <item>
       <title>The @ACR884 Tech Slot #004</title>
       <link>http://neil.grogan.ie/2012/02/acr884-tech-slot-004.html</link>
-      <pubDate>Mon, 20 Feb 2012 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 20 Feb 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/02/acr884-tech-slot-004</guid>
       <description>&lt;p&gt;Our fourth slot on &lt;a title=&quot;Athlone Community Radio&quot; href=&quot;http://athlonecommunityradio.ie/&quot; target=&quot;_blank&quot;&gt;Athlone Community Radio&lt;/a&gt;. Aired the third Monday in January 2012 on ACR 88.4FM in Athlone, Co. Westmeath, Ireland.&lt;/p&gt;
@@ -622,7 +622,7 @@ on the market and the launch of the iPad 3.&lt;/p&gt;
     <item>
       <title>The Best Cookbook</title>
       <link>http://neil.grogan.ie/2012/02/the-best-cookbook.html</link>
-      <pubDate>Sat, 04 Feb 2012 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/02/the-best-cookbook</guid>
       <description>&lt;p&gt;I&amp;#8217;ve only recently started cooking meals from scratch and it&amp;#8217;s a worthwhile experience! By my side is an awesome cookbook produced by the Health Service Executive (HSE) and Money Advice and Budgeting Service (MABS). &lt;/p&gt;
@@ -638,7 +638,7 @@ on the market and the launch of the iPad 3.&lt;/p&gt;
     <item>
       <title>Very Simple Java Twitter Bot (Twitter4J)</title>
       <link>http://neil.grogan.ie/2012/02/very-simple-java-twitter-bot-twitter4j.html</link>
-      <pubDate>Wed, 01 Feb 2012 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 01 Feb 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/02/very-simple-java-twitter-bot-twitter4j</guid>
       <description>&lt;p&gt;Below is code for the start of a Twitter bot I am going to build in Java. 
@@ -683,7 +683,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>Irish SOPA Law: An Overview</title>
       <link>http://neil.grogan.ie/2012/01/irish-sopa-law-an-overview.html</link>
-      <pubDate>Wed, 25 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 25 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/irish-sopa-law-an-overview</guid>
       <description>&lt;p&gt;&lt;img src=&quot;/files/2012/01/sopa.jpg&quot; alt=&quot;Irish SOPA Illustration&quot; /&gt;&lt;/p&gt;
@@ -693,7 +693,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>Is 4K the new 3D? - The Networked Society Blog</title>
       <link>http://neil.grogan.ie/2012/01/is-4k-the-new-3d-the-networked-society-blog.html</link>
-      <pubDate>Mon, 23 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 23 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/is-4k-the-new-3d-the-networked-society-blog</guid>
       <description>&lt;p&gt;Good insights from CES: &lt;a href=&quot;http://www.ericsson.com/thinkingahead/the-networked-society-blog/2012/01/18/is-4k-the-new-3d/&quot;&gt;Is 4K the new 3D? - The Networked Society Blog&lt;/a&gt;.&lt;/p&gt;
@@ -707,7 +707,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>Nuke support in UK hits record high</title>
       <link>http://neil.grogan.ie/2012/01/nuke-support-in-uk-hits-record-high.html</link>
-      <pubDate>Sat, 21 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 21 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/nuke-support-in-uk-hits-record-high</guid>
       <description>&lt;p&gt;via The Register - &lt;a href=&quot;http://go.theregister.com/feed/www.theregister.co.uk/2012/01/19/uk_nuclear_yesplease/&quot;&gt;Nuke support in UK hits record high&lt;/a&gt;.&lt;/p&gt;
@@ -719,7 +719,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>Why Are Android Smartphones Bigger Than the iPhone?</title>
       <link>http://neil.grogan.ie/2012/01/why-are-android-smartphones-bigger-than-the-iphone.html</link>
-      <pubDate>Wed, 18 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 18 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/why-are-android-smartphones-bigger-than-the-iphone</guid>
       <description>&lt;p&gt;via Daring Fireball &lt;a href=&quot;http://daringfireball.net/2012/01/why_are_android_phones_bigger&quot;&gt;★ Why Are Android Smartphones Bigger Than the iPhone?&lt;/a&gt;&lt;/p&gt;
@@ -731,7 +731,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>Air France 447 Flight-Data Recorder Transcript - What Really Happened Aboard Air France 447 - Popular Mechanics</title>
       <link>http://neil.grogan.ie/2012/01/air-france-447-flight-data-recorder-transcript-what-really-happened-aboard-air-france-447-popular-mechanics.html</link>
-      <pubDate>Wed, 18 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 18 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/air-france-447-flight-data-recorder-transcript-what-really-happened-aboard-air-france-447-popular-mechanics</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.popularmechanics.com/technology/aviation/crashes/what-really-happened-aboard-air-france-447-6611877&quot;&gt;Air France 447 Flight-Data Recorder Transcript - What Really Happened Aboard Air France 447 - Popular Mechanics&lt;/a&gt;.&lt;/p&gt;
@@ -743,7 +743,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>@ACR884 Tech Slot #003 – eReaders</title>
       <link>http://neil.grogan.ie/2012/01/acr884-tech-slot-003.html</link>
-      <pubDate>Mon, 16 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 16 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/acr884-tech-slot-003</guid>
       <description>&lt;p&gt;Our third slot on &lt;a title=&quot;Athlone Community Radio&quot; href=&quot;http://athlonecommunityradio.ie/&quot; target=&quot;_blank&quot;&gt;Athlone Community Radio&lt;/a&gt;. Aired the third Monday in January 2012 on ACR 88.4FM in Athlone, Co. Westmeath, Ireland.&lt;/p&gt;
@@ -771,7 +771,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>@ACR884 Tech Slot #002 – Tablets</title>
       <link>http://neil.grogan.ie/2012/01/acr884-tech-slot-002-tablets.html</link>
-      <pubDate>Thu, 12 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 12 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/acr884-tech-slot-002-tablets</guid>
       <description>&lt;ul&gt;
@@ -798,7 +798,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>@ACR884 Tech Slot #001 - Phones</title>
       <link>http://neil.grogan.ie/2012/01/acr884-ep001.html</link>
-      <pubDate>Thu, 12 Jan 2012 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 12 Jan 2012 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2012/01/acr884-ep001</guid>
       <description>&lt;p&gt;The very first slot on &lt;a title=&quot;Athlone Community Radio&quot; href=&quot;http://athlonecommunityradio.ie/&quot; target=&quot;_blank&quot;&gt;Athlone Community Radio&lt;/a&gt;. Aired November 2011 on ACR 88.4FM in Athlone, Co. Westmeath, Ireland.&lt;/p&gt;
@@ -824,7 +824,7 @@ team for a great library!&lt;/p&gt;
     <item>
       <title>Don't get a Kindle</title>
       <link>http://neil.grogan.ie/2011/12/dont-get-a-kindle.html</link>
-      <pubDate>Sat, 03 Dec 2011 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 03 Dec 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/12/dont-get-a-kindle</guid>
       <description>&lt;p&gt;The headline is misleading - I actually love my Kindle. I have read several books I otherwise 
@@ -850,7 +850,7 @@ me is end of sentence, paragraph and book (paper or e).&lt;/p&gt;
     <item>
       <title>All About Platforms</title>
       <link>http://neil.grogan.ie/2011/11/all-about-platforms.html</link>
-      <pubDate>Sat, 26 Nov 2011 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 26 Nov 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/11/all-about-platforms</guid>
       <description>&lt;p&gt;If your passion is in technology, you often sigh with the marketing buzzwords used in sales. 
@@ -893,7 +893,7 @@ which are high value but low volume.&lt;/p&gt;
     <item>
       <title>Hollywood Tech</title>
       <link>http://neil.grogan.ie/2011/11/hollywood-tech.html</link>
-      <pubDate>Tue, 22 Nov 2011 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 22 Nov 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/11/hollywood-tech</guid>
       <description>&lt;p&gt;I always enjoy watching shows like CSI for the over-the-top depiction of current technology. 
@@ -922,7 +922,7 @@ a quick search for &amp;#8220;IP Lookup&amp;#8221;. This is a buzz-word fest to 
     <item>
       <title>Faster with Arch</title>
       <link>http://neil.grogan.ie/2011/11/faster-with-arch.html</link>
-      <pubDate>Sat, 19 Nov 2011 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 19 Nov 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/11/faster-with-arch</guid>
       <description>&lt;p&gt;I have recently switched my main desktop over to Arch Linux. If you have never heard about Arch Linux, 
@@ -954,7 +954,7 @@ think smaller more manageable updates (even if small issues arise) will provide 
     <item>
       <title>Website Improvements</title>
       <link>http://neil.grogan.ie/2011/11/site-improv.html</link>
-      <pubDate>Tue, 01 Nov 2011 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/11/site-improv</guid>
       <description>&lt;p&gt;I haven&amp;#8217;t been posting much lately because I have been 
@@ -1022,7 +1022,7 @@ in future. Do &lt;a href=&quot;/contact/&quot;&gt;contact me&lt;/a&gt; if you se
     <item>
       <title>Reflection on 9-11</title>
       <link>http://neil.grogan.ie/2011/09/nerf-war.html</link>
-      <pubDate>Mon, 12 Sep 2011 00:00:00 IST</pubDate>
+      <pubDate>Mon, 12 Sep 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/09/nerf-war</guid>
       <description>&lt;p&gt;It&amp;#8217;s been 10 years since the anniversary of 9/11 and much of the world has
@@ -1073,7 +1073,7 @@ organizations trawling Twitter, Facebook, YouTube, and personal blogs to find ou
     <item>
       <title>Review of the Motorola Xoom Wifi</title>
       <link>http://neil.grogan.ie/2011/08/review-of-motorola-xoom-wifi.html</link>
-      <pubDate>Sat, 27 Aug 2011 00:00:00 IST</pubDate>
+      <pubDate>Sat, 27 Aug 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/08/review-of-motorola-xoom-wifi</guid>
       <description>&lt;p&gt;I recently bought the wifi version of the Motorola Xoom. I did not get the 3G version to 
@@ -1143,7 +1143,7 @@ Honeycomb which is sure to get more exciting as competition to the iPad heats up
     <item>
       <title>Plantronics .655 USB Headset Review</title>
       <link>http://neil.grogan.ie/2011/08/usb-headset-review.html</link>
-      <pubDate>Tue, 16 Aug 2011 00:00:00 IST</pubDate>
+      <pubDate>Tue, 16 Aug 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/08/usb-headset-review</guid>
       <description>&lt;p&gt;I got a Plantronics .655 USB Headset mainly for the ability to do VOIP well. 
@@ -1167,7 +1167,7 @@ expensive and some cheaper. If the price point is a winner, they offer decent va
     <item>
       <title>Tech Video Podcasts Worth Watching</title>
       <link>http://neil.grogan.ie/2011/07/tech-video-podcasts-worth-watching.html</link>
-      <pubDate>Wed, 13 Jul 2011 00:00:00 IST</pubDate>
+      <pubDate>Wed, 13 Jul 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/07/tech-video-podcasts-worth-watching</guid>
       <description>&lt;p&gt;I try to listen to as many &lt;strike&gt;podcasts&lt;/strike&gt; (&lt;em&gt;netcasts?&lt;/em&gt;) as I can. 
@@ -1249,7 +1249,7 @@ to ask.&lt;/p&gt;
     <item>
       <title>The Paradox of Choice</title>
       <link>http://neil.grogan.ie/2011/06/paradox-of-choice.html</link>
-      <pubDate>Thu, 30 Jun 2011 00:00:00 IST</pubDate>
+      <pubDate>Thu, 30 Jun 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/06/paradox-of-choice</guid>
       <description>&lt;p&gt;From one of the best TED talks I&amp;#8217;ve seen:&lt;/p&gt;
@@ -1263,7 +1263,7 @@ to ask.&lt;/p&gt;
     <item>
       <title>Accidental Sea - When Humans Disappear</title>
       <link>http://neil.grogan.ie/2011/06/accidental-sea-when-humans-disappear.html</link>
-      <pubDate>Wed, 29 Jun 2011 00:00:00 IST</pubDate>
+      <pubDate>Wed, 29 Jun 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/06/accidental-sea-when-humans-disappear</guid>
       <description>&lt;object width=&quot;640&quot; height=&quot;390&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube-nocookie.com/v/otIU6Py4K_A?version=3&amp;amp;hl=en_US&amp;amp;rel=0&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed src=&quot;http://www.youtube-nocookie.com/v/otIU6Py4K_A?version=3&amp;amp;hl=en_US&amp;amp;rel=0&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;500&quot; height=&quot;390&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; /&gt;&lt;/object&gt;
@@ -1277,7 +1277,7 @@ Creepy but very interesting&amp;#8230;&lt;/p&gt;
     <item>
       <title>Software Engineering Job</title>
       <link>http://neil.grogan.ie/2011/06/software-engineering-job.html</link>
-      <pubDate>Mon, 13 Jun 2011 00:00:00 IST</pubDate>
+      <pubDate>Mon, 13 Jun 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/06/software-engineering-job</guid>
       <description>&lt;p&gt;I had been applying for jobs since I started my last year in college 
@@ -1310,7 +1310,7 @@ in 2014 with many posts about the mobile industry, just as I have through colleg
     <item>
       <title>Inter-railing around Europe</title>
       <link>http://neil.grogan.ie/2011/06/inter-railing-around-europe.html</link>
-      <pubDate>Thu, 02 Jun 2011 00:00:00 IST</pubDate>
+      <pubDate>Thu, 02 Jun 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/06/inter-railing-around-europe</guid>
       <description>&lt;p&gt;As you read this, I have already embarked on an inter-railing 
@@ -1333,7 +1333,7 @@ our four year honours degree in Computer Science.&lt;/p&gt;
     <item>
       <title>Final Year of Honours Degree, Complete</title>
       <link>http://neil.grogan.ie/2011/05/final-year-of-honours-degree-complete.html</link>
-      <pubDate>Wed, 25 May 2011 00:00:00 IST</pubDate>
+      <pubDate>Wed, 25 May 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/05/final-year-of-honours-degree-complete</guid>
       <description>&lt;p&gt;It has been a whirlwind four years, but this day marks the cessation 
@@ -1355,7 +1355,7 @@ the very best in whatever they chose to do and hopefully we&amp;#8217;ll all kee
     <item>
       <title>Mobile Carrier Charges</title>
       <link>http://neil.grogan.ie/2011/05/mobile-carrier-charges.html</link>
-      <pubDate>Thu, 19 May 2011 00:00:00 IST</pubDate>
+      <pubDate>Thu, 19 May 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/05/mobile-carrier-charges</guid>
       <description>&lt;p&gt;This is an old box which contained a Nokia phone from a now 
@@ -1373,7 +1373,7 @@ call charges now, how nostalgia can prove one wrong:&lt;/p&gt;
     <item>
       <title>Waterfall</title>
       <link>http://neil.grogan.ie/2011/05/waterfall.html</link>
-      <pubDate>Sat, 14 May 2011 00:00:00 IST</pubDate>
+      <pubDate>Sat, 14 May 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/05/waterfall</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://farm6.static.flickr.com/5136/5458554591_81e0af2293.jpg&quot; title=&quot;Waterfall by dueyfinster&quot;&gt;&lt;img src=&quot;/files/2011/05/waterfall.jpg&quot; alt=&quot;Waterfall by dueyfinster&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -1387,7 +1387,7 @@ Co. Kildare. It was taken with an iPhone 4 and edited in Instagram. &lt;/p&gt;
     <item>
       <title>Cleaning your PS3's fans?</title>
       <link>http://neil.grogan.ie/2011/05/cleaning-your-ps3s-fans.html</link>
-      <pubDate>Wed, 11 May 2011 00:00:00 IST</pubDate>
+      <pubDate>Wed, 11 May 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/05/cleaning-your-ps3s-fans</guid>
       <description>&lt;p&gt;Below is a neat trick to clean out your Playstation 3&amp;#8217;s fans if 
@@ -1410,7 +1410,7 @@ emanating from my PS3.&lt;/p&gt;
     <item>
       <title>GeoCampus</title>
       <link>http://neil.grogan.ie/2011/05/geocampus.html</link>
-      <pubDate>Mon, 09 May 2011 00:00:00 IST</pubDate>
+      <pubDate>Mon, 09 May 2011 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/05/geocampus</guid>
       <description>&lt;p&gt;For my final year project, I have done a web application on the 
@@ -1449,7 +1449,7 @@ to shine?&lt;/p&gt;
     <item>
       <title>Sennheiser HD595 Review</title>
       <link>http://neil.grogan.ie/2011/03/senn-review.html</link>
-      <pubDate>Sat, 05 Mar 2011 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 05 Mar 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/03/senn-review</guid>
       <description>&lt;p&gt;During last summer I purchased a set of Sennheiser HD595&amp;#8217;s - a 
@@ -1500,7 +1500,7 @@ a great buy if you plan to use them as much as I have and will.&lt;/p&gt;
     <item>
       <title>iPhone 4 Review</title>
       <link>http://neil.grogan.ie/2011/02/iphone4-review.html</link>
-      <pubDate>Fri, 18 Feb 2011 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 18 Feb 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/02/iphone4-review</guid>
       <description>&lt;p&gt;I purchased the iPhone 4 shortly after its release in Summer 2010. 
@@ -1558,7 +1558,7 @@ you!&lt;/p&gt;
     <item>
       <title>Thoughts on IPv6</title>
       <link>http://neil.grogan.ie/2011/02/thoughts-on-ipv6.html</link>
-      <pubDate>Wed, 09 Feb 2011 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 09 Feb 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/02/thoughts-on-ipv6</guid>
       <description>&lt;p&gt;A multitude of websites have been reporting the impending doom 
@@ -1625,7 +1625,7 @@ to test these skills.&lt;/p&gt;
     <item>
       <title>Output Percentage of File (Bash code)</title>
       <link>http://neil.grogan.ie/2011/02/output-percentage-of-file-bash-code.html</link>
-      <pubDate>Sat, 05 Feb 2011 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 05 Feb 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/02/output-percentage-of-file-bash-code</guid>
       <description>&lt;p&gt;I wrote this script recently for a friend in a job who 
@@ -1657,7 +1657,7 @@ this up in case it&amp;#8217;s useful to anyone else!&lt;/p&gt;
     <item>
       <title>Blogging like a H4x0r</title>
       <link>http://neil.grogan.ie/2011/01/blogging-like-h4x0r.html</link>
-      <pubDate>Mon, 31 Jan 2011 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 31 Jan 2011 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2011/01/blogging-like-h4x0r</guid>
       <description>&lt;p&gt;Apologies to those visiting my site recently because:&lt;/p&gt;
@@ -1715,7 +1715,7 @@ there. If you ever wanted to know, that&amp;#8217;s blogging like a h4x0r!&lt;/p
     <item>
       <title>My Top Chrome Extensions</title>
       <link>http://neil.grogan.ie/2010/11/my-top-chrome-extensions.html</link>
-      <pubDate>Mon, 22 Nov 2010 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 22 Nov 2010 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/11/my-top-chrome-extensions</guid>
       <description>&lt;p&gt;Below I present some very useful extensions I use while using Google Chrome, 
@@ -1809,7 +1809,7 @@ Google.ie, like magic!
     <item>
       <title>First Video Blog!</title>
       <link>http://neil.grogan.ie/2010/10/first-video-blog.html</link>
-      <pubDate>Fri, 29 Oct 2010 00:00:00 IST</pubDate>
+      <pubDate>Fri, 29 Oct 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/10/first-video-blog</guid>
       <description>&lt;p&gt;Below is my first attempt at video
@@ -1831,7 +1831,7 @@ Ireland&lt;/a&gt;&lt;/p&gt;
     <item>
       <title>iPad Evolution?</title>
       <link>http://neil.grogan.ie/2010/10/ipad-evolution.html</link>
-      <pubDate>Tue, 26 Oct 2010 00:00:00 IST</pubDate>
+      <pubDate>Tue, 26 Oct 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/10/ipad-evolution</guid>
       <description>&lt;p&gt;Since Apple released an iPad there have been various competitors
@@ -1880,7 +1880,7 @@ paying directly for the later version you really want!&lt;/p&gt;
     <item>
       <title>Alternative Interpretation of the Prodigy</title>
       <link>http://neil.grogan.ie/2010/10/alternative-interpretation-of-prodigy.html</link>
-      <pubDate>Fri, 01 Oct 2010 00:00:00 IST</pubDate>
+      <pubDate>Fri, 01 Oct 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/10/alternative-interpretation-of-prodigy</guid>
       <description>&lt;p&gt;So I was listening to some music, thinking about the announcement 
@@ -1918,7 +1918,7 @@ I&amp;#8217;ll leave you with the line from &lt;em&gt;Breathe&lt;/em&gt; that sh
     <item>
       <title>Garmin Zumo 660 Motorcycle GPS</title>
       <link>http://neil.grogan.ie/2010/08/motorcycle-gps.html</link>
-      <pubDate>Wed, 04 Aug 2010 00:00:00 IST</pubDate>
+      <pubDate>Wed, 04 Aug 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/08/motorcycle-gps</guid>
       <description>&lt;p&gt;It&amp;#8217;s been over a week since I received my Garmin Zumo 660 
@@ -2086,7 +2086,7 @@ a must buy for bikers who intend to travel and can justify the cost.&lt;/p&gt;
     <item>
       <title>BSc in Computing</title>
       <link>http://neil.grogan.ie/2010/06/bsc-in-computing.html</link>
-      <pubDate>Sun, 20 Jun 2010 00:00:00 IST</pubDate>
+      <pubDate>Sun, 20 Jun 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/06/bsc-in-computing</guid>
       <description>&lt;p&gt;Wow&amp;#8230; what a weird feeling, I have a degree under my belt. Three 
@@ -2112,7 +2112,7 @@ full copyright credit goes to Grogan, Howard and MacTiernan 2010.&lt;/p&gt;
     <item>
       <title>Haiku: Open Source BeOS clone</title>
       <link>http://neil.grogan.ie/2010/06/haiku-open-source-beos-clone.html</link>
-      <pubDate>Sun, 06 Jun 2010 00:00:00 IST</pubDate>
+      <pubDate>Sun, 06 Jun 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/06/haiku-open-source-beos-clone</guid>
       <description>&lt;p&gt;I usually listen
@@ -2173,7 +2173,7 @@ Haiku a try!
     <item>
       <title>WebM promises Open Web Video</title>
       <link>http://neil.grogan.ie/2010/05/webm-promises-open-web-video.html</link>
-      <pubDate>Sun, 30 May 2010 00:00:00 IST</pubDate>
+      <pubDate>Sun, 30 May 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/05/webm-promises-open-web-video</guid>
       <description>&lt;p&gt;I&amp;#8217;ve written &lt;a href=&quot;/2008/12/firefox-and-opera-lead-web-video-way.html&quot;&gt;about my desire for open web video before&lt;/a&gt;, 
@@ -2201,7 +2201,7 @@ browsers with WebM support are below:&amp;lt;&lt;/p&gt;
     <item>
       <title>Honda Bros Motorcycle</title>
       <link>http://neil.grogan.ie/2010/05/honda-bros-motorcycle.html</link>
-      <pubDate>Mon, 24 May 2010 00:00:00 IST</pubDate>
+      <pubDate>Mon, 24 May 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/05/honda-bros-motorcycle</guid>
       <description>&lt;p&gt;I recently purchased -
@@ -2291,7 +2291,7 @@ Specifications&lt;/a&gt;
     <item>
       <title>A Bit of Bau</title>
       <link>http://neil.grogan.ie/2010/05/bit-of-bau.html</link>
-      <pubDate>Mon, 03 May 2010 00:00:00 IST</pubDate>
+      <pubDate>Mon, 03 May 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/05/bit-of-bau</guid>
       <description>&lt;p&gt;This is a 3rd Graphics project we presented as a group for 
@@ -2312,7 +2312,7 @@ Also noticed &lt;a href=&quot;http://bark4mark.com/2010/04/3d-graphics-project-2
     <item>
       <title>Donating to Charity</title>
       <link>http://neil.grogan.ie/2010/04/donating-to-charity.html</link>
-      <pubDate>Thu, 01 Apr 2010 00:00:00 IST</pubDate>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/04/donating-to-charity</guid>
       <description>&lt;p&gt;I&amp;#8217;ve been meaning to write this
@@ -2375,7 +2375,7 @@ seek to waste the money you have donated.
     <item>
       <title>Computer Graphics: Bauhaus Chess Design</title>
       <link>http://neil.grogan.ie/2010/03/computer-graphics-bauhaus-chess-design.html</link>
-      <pubDate>Wed, 17 Mar 2010 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 17 Mar 2010 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/03/computer-graphics-bauhaus-chess-design</guid>
       <description>&lt;p&gt;One of our projects this semester is to make a Bauhaus Chess
@@ -2410,7 +2410,7 @@ commercial license (see copyright of the blog).
     <item>
       <title>Interview - Being a Woman in Computer Science</title>
       <link>http://neil.grogan.ie/2010/03/interview-being-woman-in-computer.html</link>
-      <pubDate>Tue, 09 Mar 2010 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 09 Mar 2010 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/03/interview-being-woman-in-computer</guid>
       <description>&lt;p&gt;One topic that rarely gets coverage that I&amp;#8217;ve seen is how
@@ -2536,7 +2536,7 @@ they&amp;#8217;re weight who really cares about gender.
     <item>
       <title>Technology New Years Resolutions</title>
       <link>http://neil.grogan.ie/2010/01/technology-new-years-resolutions.html</link>
-      <pubDate>Mon, 04 Jan 2010 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 04 Jan 2010 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/01/technology-new-years-resolutions</guid>
       <description>&lt;p&gt;Some people make new years resolutions about eating healthier,
@@ -2586,7 +2586,7 @@ Happy 2010!&lt;/p&gt;
     <item>
       <title>Dogs chew things?</title>
       <link>http://neil.grogan.ie/2010/01/dogs-chew-things.html</link>
-      <pubDate>Sun, 03 Jan 2010 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 03 Jan 2010 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2010/01/dogs-chew-things</guid>
       <description>&lt;p&gt;Lesson learned: never leave a expensive. Take these pictures I shot 
@@ -2610,7 +2610,7 @@ I can find almost any other part for my Yamaha YP125 other than a seat, grrrr&lt
     <item>
       <title>9 years, &amp;#8364;10m and 8KM makes the world's biggest train set</title>
       <link>http://neil.grogan.ie/2009/12/years-10m-8km-makes-world-biggest.html</link>
-      <pubDate>Sun, 13 Dec 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 13 Dec 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/12/years-10m-8km-makes-world-biggest</guid>
       <description>
@@ -2620,7 +2620,7 @@ I can find almost any other part for my Yamaha YP125 other than a seat, grrrr&lt
     <item>
       <title>Best KDE/Linux?</title>
       <link>http://neil.grogan.ie/2009/12/best-kdelinux.html</link>
-      <pubDate>Sat, 12 Dec 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 12 Dec 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/12/best-kdelinux</guid>
       <description>&lt;p&gt;[](http://www.tuxradar.com/content/get-best-kde-linux-distro)&lt;a href=&quot;http://posterous.com/getfile/files.posterous.com/dueyfinster/nhcpemhIhaknDbFnGmyDrygFCmfgwJfwsfBiEbAdJcEzAGazExymJgjbkHIn/media_httpwwwtuxradarcomfilesLXF126roundslackware02jpg_lEmerdfCueGgscx.jpg.scaled1000.jpg&quot;&gt;&lt;img src=&quot;http://posterous.com/getfile/files.posterous.com/dueyfinster/nhcpemhIhaknDbFnGmyDrygFCmfgwJfwsfBiEbAdJcEzAGazExymJgjbkHIn/media_httpwwwtuxradarcomfilesLXF126roundslackware02jpg_lEmerdfCueGgscx.jpg.scaled500.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
@@ -2638,7 +2638,7 @@ useful online tools&amp;#8230;&lt;/p&gt;
     <item>
       <title>Why Should I Care What Color the Bikeshed Is?</title>
       <link>http://neil.grogan.ie/2009/12/why-should-i-care-what-color-bikeshed.html</link>
-      <pubDate>Mon, 07 Dec 2009 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 07 Dec 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/12/why-should-i-care-what-color-bikeshed</guid>
       <description>&lt;p&gt;&amp;#8220;The really, really short answer is that you should not. The somewhat
@@ -2659,7 +2659,7 @@ the complexity of the change.&amp;#8221;&lt;/p&gt;
     <item>
       <title>Pulp Fiction theme</title>
       <link>http://neil.grogan.ie/2009/12/pulp-fiction-theme.html</link>
-      <pubDate>Fri, 04 Dec 2009 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 04 Dec 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/12/pulp-fiction-theme</guid>
       <description>&lt;p&gt;When I found this, I had to share it:&lt;/p&gt;
@@ -2671,7 +2671,7 @@ the complexity of the change.&amp;#8221;&lt;/p&gt;
     <item>
       <title>Cheesy Intel Ad</title>
       <link>http://neil.grogan.ie/2009/12/cheesy-intel-ad.html</link>
-      <pubDate>Wed, 02 Dec 2009 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 02 Dec 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/12/cheesy-intel-ad</guid>
       <description>&lt;p&gt;[](http://www.youtube.com/watch?v=jqLPHrCQr2I&amp;amp;feature=player_embedded)
@@ -2682,7 +2682,7 @@ the complexity of the change.&amp;#8221;&lt;/p&gt;
     <item>
       <title>Yamaha Majesty 400c Review</title>
       <link>http://neil.grogan.ie/2009/12/yamaha-majesty-400c-review.html</link>
-      <pubDate>Tue, 01 Dec 2009 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 01 Dec 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/12/yamaha-majesty-400c-review</guid>
       <description>&lt;p&gt;I own a Majesty 125cc
@@ -2709,7 +2709,7 @@ it&amp;#8217;s braun but rather it&amp;#8217;s brains with good safety and road 
     <item>
       <title>Sony Subsidises Supercomputers for the US Military?</title>
       <link>http://neil.grogan.ie/2009/11/sony-subsidises-supercomputers-for-us.html</link>
-      <pubDate>Mon, 30 Nov 2009 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 30 Nov 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/11/sony-subsidises-supercomputers-for-us</guid>
       <description>&lt;p&gt;Ars has a great article about how Sony through the
@@ -2736,7 +2736,7 @@ here&lt;/a&gt;.
     <item>
       <title>Nuclear Power Debates... why not in Ireland?</title>
       <link>http://neil.grogan.ie/2009/11/nuclear-power-debates-why-not-in.html</link>
-      <pubDate>Sat, 28 Nov 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/11/nuclear-power-debates-why-not-in</guid>
       <description>&lt;p&gt;Some really informative stuff on Slashdot regarding nuclear power:&lt;/p&gt;
@@ -2883,7 +2883,7 @@ debate going - as it&amp;#8217;s our energy future and money.
     <item>
       <title>Interesting Video for Windows 7 fans</title>
       <link>http://neil.grogan.ie/2009/11/fans.html</link>
-      <pubDate>Sat, 28 Nov 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/11/fans</guid>
       <description>&lt;p&gt;I mentioned this to people in
@@ -2898,7 +2898,7 @@ load more legacy stuff etc. so it is useful for some metrics:&lt;/p&gt;
     <item>
       <title>Is a Mac Pro overpriced?</title>
       <link>http://neil.grogan.ie/2009/11/is-mac-pro-overpriced.html</link>
-      <pubDate>Tue, 24 Nov 2009 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 24 Nov 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/11/is-mac-pro-overpriced</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://gizmodo.com/5411073/why-its-gotten-straight-stupid-to-buy-a-mac-pro&quot;&gt;Gizmodo seem to think
@@ -2922,7 +2922,7 @@ with more money than sense. Who said the don&amp;#8217;t cater to all markets!?!
     <item>
       <title>3G Coverage in Ireland</title>
       <link>http://neil.grogan.ie/2009/04/3g-coverage-in-ireland.html</link>
-      <pubDate>Mon, 20 Apr 2009 00:00:00 IST</pubDate>
+      <pubDate>Mon, 20 Apr 2009 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/04/3g-coverage-in-ireland</guid>
       <description>&lt;p&gt;I recently used Twitter to
@@ -2966,7 +2966,7 @@ old adage goes: sometimes you get what you pay for&amp;#8230;
     <item>
       <title>iPhone 3G Review</title>
       <link>http://neil.grogan.ie/2009/04/iphone-3g-review.html</link>
-      <pubDate>Thu, 09 Apr 2009 00:00:00 IST</pubDate>
+      <pubDate>Thu, 09 Apr 2009 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/04/iphone-3g-review</guid>
       <description>&lt;p&gt;I recently got an iPhone 3G and away from
@@ -3161,7 +3161,7 @@ expect this and 4G (WiMax?) will appear in later models..
     <item>
       <title>Eircom Responds...</title>
       <link>http://neil.grogan.ie/2009/03/eircom-responds.html</link>
-      <pubDate>Thu, 26 Mar 2009 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 26 Mar 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/03/eircom-responds</guid>
       <description>&lt;blockquote&gt;
@@ -3214,7 +3214,7 @@ Head of eircom Customer Care&lt;/p&gt;
     <item>
       <title>This post is censored by IRMA</title>
       <link>http://neil.grogan.ie/2009/03/this-post-is-censored-by-irma.html</link>
-      <pubDate>Sat, 07 Mar 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 07 Mar 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/03/this-post-is-censored-by-irma</guid>
       <description>&lt;p&gt;I always hoped for
@@ -3308,7 +3308,7 @@ Irish and/or in Ireland: please visit:
     <item>
       <title>Love letter to IRMA's Solicitor</title>
       <link>http://neil.grogan.ie/2009/03/love-letter-to-irmas-solicitor.html</link>
-      <pubDate>Sat, 07 Mar 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 07 Mar 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/03/love-letter-to-irmas-solicitor</guid>
       <description>&lt;ul&gt;
@@ -3374,7 +3374,7 @@ if you don&amp;#8217;t wish it so; don&amp;#8217;t respond.&lt;/p&gt;
     <item>
       <title>Linux Desktop Environments?</title>
       <link>http://neil.grogan.ie/2009/01/linux-desktop-environments.html</link>
-      <pubDate>Mon, 26 Jan 2009 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 26 Jan 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/01/linux-desktop-environments</guid>
       <description>&lt;p&gt;What are Desktop Environments? Wikipedia defines it as:&lt;/p&gt;
@@ -3499,7 +3499,7 @@ for those interested.&lt;/p&gt;
     <item>
       <title>Ubuntu in four years</title>
       <link>http://neil.grogan.ie/2009/01/ubuntu-in-four-years.html</link>
-      <pubDate>Wed, 21 Jan 2009 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 21 Jan 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/01/ubuntu-in-four-years</guid>
       <description>&lt;p&gt;Last year was me celebrating four years of using the best 
@@ -3552,7 +3552,7 @@ fitting to see the latest version:&lt;/p&gt;
     <item>
       <title>KDE 4.2 Beta 2</title>
       <link>http://neil.grogan.ie/2009/01/beta-2.html</link>
-      <pubDate>Sun, 04 Jan 2009 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 04 Jan 2009 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2009/01/beta-2</guid>
       <description>&lt;p&gt;Recently I downloaded the &lt;a href=&quot;http://www.kubuntu.org/&quot;&gt;Kubuntu&lt;/a&gt; packages of
@@ -3642,7 +3642,7 @@ its hot!!  &lt;/p&gt;
     <item>
       <title>Firefox and Opera lead the web video way</title>
       <link>http://neil.grogan.ie/2008/12/firefox-and-opera-lead-web-video-way.html</link>
-      <pubDate>Tue, 09 Dec 2008 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 09 Dec 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/12/firefox-and-opera-lead-web-video-way</guid>
       <description>&lt;p&gt;I downloaded &lt;a href=&quot;http://www.mozilla.com/en-US/firefox/all-beta.html&quot;&gt;Firefox 3.1 beta
@@ -3686,7 +3686,7 @@ Theora decoder not found
     <item>
       <title>Profiling Firefox Extensions I have installed</title>
       <link>http://neil.grogan.ie/2008/11/profiling-firefox-extensions-i-have.html</link>
-      <pubDate>Sat, 29 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 29 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/profiling-firefox-extensions-i-have</guid>
       <description>&lt;ul&gt;
@@ -3756,7 +3756,7 @@ options for the tinkerers among us are quite good also&amp;#8230;.
     <item>
       <title>Research proves video games lack harm</title>
       <link>http://neil.grogan.ie/2008/11/research-proves-video-games-lack-harm.html</link>
-      <pubDate>Thu, 27 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 27 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/research-proves-video-games-lack-harm</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Gtalogowhite.svg/200px-Gtalogowhite.svg.png&quot;&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Gtalogowhite.svg/200px-Gtalogowhite.svg.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;I
@@ -3830,7 +3830,7 @@ News&lt;/a&gt;&lt;/p&gt;
     <item>
       <title>How the LED was born....</title>
       <link>http://neil.grogan.ie/2008/11/how-led-was-born.html</link>
-      <pubDate>Sun, 23 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 23 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/how-led-was-born</guid>
       <description>&lt;p&gt;&lt;img src=&quot;https://blogger.googleusercontent.com/tracker/7231752728434532377-8425882746826396959?l=neil.grogan.ie&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
@@ -3840,7 +3840,7 @@ News&lt;/a&gt;&lt;/p&gt;
     <item>
       <title>SSH Guide</title>
       <link>http://neil.grogan.ie/2008/11/ssh-guide.html</link>
-      <pubDate>Mon, 17 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 17 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/ssh-guide</guid>
       <description>&lt;h2 id=&quot;note-this-guide-was-written-for-use-by-my-computer-science-class&quot;&gt;**Note: This Guide was written for use by my Computer Science class&lt;/h2&gt;
@@ -3948,7 +3948,7 @@ break; and there is no &amp;#8216;known&amp;#8217; way to break it&amp;#8230;.
     <item>
       <title>Web Multimedia Project 1</title>
       <link>http://neil.grogan.ie/2008/11/web-multimedia-project-1.html</link>
-      <pubDate>Sun, 16 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 16 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/web-multimedia-project-1</guid>
       <description>&lt;p&gt;As part of Computer
@@ -3967,7 +3967,7 @@ Here it is:&lt;br /&gt;
     <item>
       <title>Gmail Video Chat</title>
       <link>http://neil.grogan.ie/2008/11/gmail-video-chat.html</link>
-      <pubDate>Thu, 13 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 13 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/gmail-video-chat</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://3.bp.blogspot.com/_JE4qNpFW6Yk/SRkwSMYD_aI/AAAAAAAAAJ8/gsDJdA4WBgY/s1600/video_chat.png&quot;&gt;&lt;img src=&quot;http://3.bp.blogspot.com/_JE4qNpFW6Yk/SRkwSMYD_aI/AAAAAAAAAJ8/gsDJdA4WBgY/s200/video_chat.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;
@@ -4018,7 +4018,7 @@ company itself. Get working on it &lt;a href=&quot;http://www.google.ie/&quot;&g
     <item>
       <title>Innovation Right Here - Dept. of Education is Wrong</title>
       <link>http://neil.grogan.ie/2008/11/innovation-right-here-dept-of-education.html</link>
-      <pubDate>Wed, 12 Nov 2008 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 12 Nov 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/11/innovation-right-here-dept-of-education</guid>
       <description>&lt;p&gt;I usually get both of Ireland&amp;#8217;s daily national
@@ -4081,7 +4081,7 @@ Keefe&lt;/a&gt; and his 20th century
     <item>
       <title>Domo Arigato, Mr.Roboto</title>
       <link>http://neil.grogan.ie/2008/10/domo-arigato-mr-roboto.html</link>
-      <pubDate>Sat, 25 Oct 2008 00:00:00 IST</pubDate>
+      <pubDate>Sat, 25 Oct 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/10/domo-arigato-mr-roboto</guid>
       <description>&lt;p&gt;Seriously: what an awesome
@@ -4102,7 +4102,7 @@ I&amp;#8217;ll just post the free video so y&amp;#8217;all can watch&amp;#8230;.
     <item>
       <title>Hurling - Four in a row?</title>
       <link>http://neil.grogan.ie/2008/10/hurling-four-in-row.html</link>
-      <pubDate>Sun, 19 Oct 2008 00:00:00 IST</pubDate>
+      <pubDate>Sun, 19 Oct 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/10/hurling-four-in-row</guid>
       <description>&lt;p&gt;One cannot help but be amazed at Kilkenny; true masters of the Irish
@@ -4138,7 +4138,7 @@ mental about Hurling:&lt;/p&gt;
     <item>
       <title>Geek Thug - "I Had to Beat Up a Girl"</title>
       <link>http://neil.grogan.ie/2008/09/geek-thug-i-had-to-beat-up-girl.html</link>
-      <pubDate>Thu, 25 Sep 2008 00:00:00 IST</pubDate>
+      <pubDate>Thu, 25 Sep 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/09/geek-thug-i-had-to-beat-up-girl</guid>
       <description>&lt;p&gt;I just read one of the most informative and insightful blog posts of
@@ -4156,7 +4156,7 @@ beat up a Girl. Weird stuff!&lt;br /&gt;
     <item>
       <title>Yamaha YQ Aerox - best moped ever?</title>
       <link>http://neil.grogan.ie/2008/09/yamaha-yq-aerox-best-moped-ever.html</link>
-      <pubDate>Wed, 17 Sep 2008 00:00:00 IST</pubDate>
+      <pubDate>Wed, 17 Sep 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/09/yamaha-yq-aerox-best-moped-ever</guid>
       <description>&lt;p&gt;Well I
@@ -4186,7 +4186,7 @@ allot better and drives better than ever!  &lt;/p&gt;
     <item>
       <title>Wordpress 2.6</title>
       <link>http://neil.grogan.ie/2008/09/wordpress-26.html</link>
-      <pubDate>Wed, 10 Sep 2008 00:00:00 IST</pubDate>
+      <pubDate>Wed, 10 Sep 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/09/wordpress-26</guid>
       <description>&lt;p&gt;Open Source star of the blogging world:&lt;br /&gt;
@@ -4197,7 +4197,7 @@ allot better and drives better than ever!  &lt;/p&gt;
     <item>
       <title>Summer - One Month On.....</title>
       <link>http://neil.grogan.ie/2008/06/summer-one-month-on.html</link>
-      <pubDate>Sun, 29 Jun 2008 00:00:00 IST</pubDate>
+      <pubDate>Sun, 29 Jun 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/06/summer-one-month-on</guid>
       <description>&lt;p&gt;Well one month in Summer
@@ -4232,7 +4232,7 @@ few picture posts dedicated to the bike!!
     <item>
       <title>I've decided - I'm decidedly middle class</title>
       <link>http://neil.grogan.ie/2008/05/ive-decided-im-decidedly-middle-class.html</link>
-      <pubDate>Wed, 14 May 2008 00:00:00 IST</pubDate>
+      <pubDate>Wed, 14 May 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/05/ive-decided-im-decidedly-middle-class</guid>
       <description>&lt;p&gt;I had a trip in to the faire capital city of Ireland today:
@@ -4281,7 +4281,7 @@ stigmata?
     <item>
       <title>Will Google Buy Skype?</title>
       <link>http://neil.grogan.ie/2008/04/will-google-buy-skype.html</link>
-      <pubDate>Wed, 09 Apr 2008 00:00:00 IST</pubDate>
+      <pubDate>Wed, 09 Apr 2008 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/04/will-google-buy-skype</guid>
       <description>&lt;p&gt;It&amp;#8217;s been all over the tech
@@ -4323,7 +4323,7 @@ transaction could go quite well for both parties&amp;#8230;
     <item>
       <title>Letter to EU Commissioner on 95 Year Copyright Extension [Updated]</title>
       <link>http://neil.grogan.ie/2008/02/year.html</link>
-      <pubDate>Sat, 16 Feb 2008 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 16 Feb 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/02/year</guid>
       <description>&lt;p&gt;I recently read a Slashdot article &amp;#8220;&lt;a href=&quot;http://slashdot.org/article.pl?sid=08/02/14/1626228&quot;&gt;EU Commissioner proposes 95 year
@@ -4459,7 +4459,7 @@ proposal.&lt;/p&gt;
     <item>
       <title>Why I think Amarok rocks....</title>
       <link>http://neil.grogan.ie/2008/02/why-i-think-amarock-rocks.html</link>
-      <pubDate>Thu, 14 Feb 2008 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 14 Feb 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/02/why-i-think-amarock-rocks</guid>
       <description>&lt;p&gt;I just purchased
@@ -4529,7 +4529,7 @@ eventually!&lt;/a&gt;)
     <item>
       <title>A few days with A Nokia N810</title>
       <link>http://neil.grogan.ie/2008/01/few-days-with-nokia-n810.html</link>
-      <pubDate>Sun, 13 Jan 2008 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 13 Jan 2008 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2008/01/few-days-with-nokia-n810</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://3.bp.blogspot.com/_4VvLQrhTX4I/R4qHd3krvrI/AAAAAAAABTQ/EEVzzCX5IGs/s1600-h/HPIM0193.JPG&quot;&gt;&lt;img src=&quot;http://3.bp.blogspot.com/_4VvLQrhTX4I/R4qHd3krvrI/AAAAAAAABTQ/EEVzzCX5IGs/s320/HPIM0193.JPG&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;  &lt;/p&gt;
@@ -4607,7 +4607,7 @@ inbuild 3G or Wimax.   &lt;/p&gt;
     <item>
       <title>Nokia N810 Tablet to hit the shops soon...</title>
       <link>http://neil.grogan.ie/2007/10/tablet-to-hit-shops-soon.html</link>
-      <pubDate>Sun, 21 Oct 2007 00:00:00 IST</pubDate>
+      <pubDate>Sun, 21 Oct 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/10/tablet-to-hit-shops-soon</guid>
       <description>&lt;p&gt;Nokia have
@@ -4642,7 +4642,7 @@ Apples iPhone.
     <item>
       <title>Apple Mac OS X: the most popular Desktop Unix?</title>
       <link>http://neil.grogan.ie/2007/10/apple-mac-os-x-most-popular-desktop.html</link>
-      <pubDate>Sun, 21 Oct 2007 00:00:00 IST</pubDate>
+      <pubDate>Sun, 21 Oct 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/10/apple-mac-os-x-most-popular-desktop</guid>
       <description>&lt;p&gt;Apple does it again: explosive growth in the computer market,
@@ -4696,7 +4696,7 @@ popular geek news site: &lt;a href=&quot;http://www.slashdot.org/&quot;&gt;Slash
     <item>
       <title>Linux and Patents: Just Patently Wrong</title>
       <link>http://neil.grogan.ie/2007/10/linux-and-patents-just-patently-wrong.html</link>
-      <pubDate>Fri, 12 Oct 2007 00:00:00 IST</pubDate>
+      <pubDate>Fri, 12 Oct 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/10/linux-and-patents-just-patently-wrong</guid>
       <description>&lt;p&gt;So I read the news &lt;a href=&quot;http://www.theregister.co.uk/2007/10/12/novell_red_hat_linux_patent_sued/&quot;&gt;Novell and Red Hat are being sued for
@@ -4763,7 +4763,7 @@ right? Wrong, wrong and now I think it is time we make YOU pay&amp;#8230;..
     <item>
       <title>Planning the Computer Build</title>
       <link>http://neil.grogan.ie/2007/10/planning-computer-build.html</link>
-      <pubDate>Tue, 09 Oct 2007 00:00:00 IST</pubDate>
+      <pubDate>Tue, 09 Oct 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/10/planning-computer-build</guid>
       <description>&lt;p&gt;Planning to build a computer can be fun also. Researching parts, making
@@ -4801,7 +4801,7 @@ under CC-BY-NC-SA. Here is a screenshot of it:&lt;/p&gt;
     <item>
       <title>Computer Systems - Dismantling PC's is fun!</title>
       <link>http://neil.grogan.ie/2007/09/computer-systems-dismantling-pcs-is-fun.html</link>
-      <pubDate>Thu, 27 Sep 2007 00:00:00 IST</pubDate>
+      <pubDate>Thu, 27 Sep 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/09/computer-systems-dismantling-pcs-is-fun</guid>
       <description>&lt;p&gt;I found a new pastime: dismantling pc&amp;#8217;s. It my not sound like great
@@ -4832,7 +4832,7 @@ photos below to show the inside internals:&lt;/p&gt;
     <item>
       <title>Apple - Play Nice....</title>
       <link>http://neil.grogan.ie/2007/09/apple-play-nice.html</link>
-      <pubDate>Sat, 15 Sep 2007 00:00:00 IST</pubDate>
+      <pubDate>Sat, 15 Sep 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/09/apple-play-nice</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://2.bp.blogspot.com/_4VvLQrhTX4I/RuxkSFmzdLI/AAAAAAAABBs/wij7hmtcbd0/s1600-h/AppleLogo.jpg&quot;&gt;&lt;img src=&quot;http://2.bp.blogspot.com/_4VvLQrhTX4I/RuxkSFmzdLI/AAAAAAAABBs/wij7hmtcbd0/s320/AppleLogo.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -4881,7 +4881,7 @@ of which Open source is a key factor in OS X.
     <item>
       <title>Comp Sci - An Interview with Stanford's Undegraduate Professor</title>
       <link>http://neil.grogan.ie/2007/09/comp-sci-interview-with-stanfords.html</link>
-      <pubDate>Fri, 07 Sep 2007 00:00:00 IST</pubDate>
+      <pubDate>Fri, 07 Sep 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/09/comp-sci-interview-with-stanfords</guid>
       <description>&lt;p&gt;This is the guy who runs Stanford University Undergraduate programme. He
@@ -4901,7 +4901,7 @@ interview&lt;/a&gt;.
     <item>
       <title>Review of the Official Ubuntu Book, Second Edition (2007)</title>
       <link>http://neil.grogan.ie/2007/09/review-of-official-ubuntu-book-second.html</link>
-      <pubDate>Tue, 04 Sep 2007 00:00:00 IST</pubDate>
+      <pubDate>Tue, 04 Sep 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/09/review-of-official-ubuntu-book-second</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://ec1.images-amazon.com/images/I/51tftxZawYL._SS500_.jpg&quot;&gt;&lt;img src=&quot;http://ec1.images-amazon.com/images/I/51tftxZawYL._SS500_.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;The
@@ -4961,7 +4961,7 @@ I also bought it to support Ubuntu financially.  &lt;/p&gt;
     <item>
       <title>Institute of Technology, Blanchardstown</title>
       <link>http://neil.grogan.ie/2007/09/institute-of-technology-blanchardstown.html</link>
-      <pubDate>Sat, 01 Sep 2007 00:00:00 IST</pubDate>
+      <pubDate>Sat, 01 Sep 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/09/institute-of-technology-blanchardstown</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.itb.ie/site/Images/newitbbanner760x95.jpg&quot;&gt;&lt;img src=&quot;http://www.itb.ie/site/Images/newitbbanner760x95.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;I
@@ -4990,7 +4990,7 @@ Map&lt;/a&gt;
     <item>
       <title>Microsoft settles with Eolas over Internet Explorer</title>
       <link>http://neil.grogan.ie/2007/08/microsoft-settles-with-eolas-over.html</link>
-      <pubDate>Fri, 31 Aug 2007 00:00:00 IST</pubDate>
+      <pubDate>Fri, 31 Aug 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/08/microsoft-settles-with-eolas-over</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.cbi.cnptia.embrapa.br/xmeeting/include/img/microsoft-logo.jpg&quot;&gt;&lt;img src=&quot;http://www.cbi.cnptia.embrapa.br/xmeeting/include/img/microsoft-logo.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -5023,7 +5023,7 @@ mind.&lt;br /&gt;
     <item>
       <title>Gutsy coming along, Update to Dell Windows Refund..</title>
       <link>http://neil.grogan.ie/2007/08/gutsy-coming-along-update-to-dell.html</link>
-      <pubDate>Wed, 29 Aug 2007 00:00:00 IST</pubDate>
+      <pubDate>Wed, 29 Aug 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/08/gutsy-coming-along-update-to-dell</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.ubuntu.com/themes/ubuntu07/images/ubuntulogo.png&quot;&gt;&lt;img src=&quot;http://www.ubuntu.com/themes/ubuntu07/images/ubuntulogo.png&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -5071,7 +5071,7 @@ I&amp;#8217;d get more, but alas that&amp;#8217;s life&amp;#8230;..
     <item>
       <title>Dell refunds me for Windows!</title>
       <link>http://neil.grogan.ie/2007/08/dell-refunds-me-for-windows.html</link>
-      <pubDate>Tue, 21 Aug 2007 00:00:00 IST</pubDate>
+      <pubDate>Tue, 21 Aug 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/08/dell-refunds-me-for-windows</guid>
       <description>&lt;p&gt;As many of you know
@@ -5129,7 +5129,7 @@ machines in Ireland, I&amp;#8217;ll buy another!!
     <item>
       <title>Have you got viruses or spyware? Here's my tips!</title>
       <link>http://neil.grogan.ie/2007/08/have-you-got-viruses-or-spyware-heres.html</link>
-      <pubDate>Thu, 16 Aug 2007 00:00:00 IST</pubDate>
+      <pubDate>Thu, 16 Aug 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/08/have-you-got-viruses-or-spyware-heres</guid>
       <description>&lt;p&gt;I come into contact everyday with people asking how to fix
@@ -5178,7 +5178,7 @@ of TLC!
     <item>
       <title>Seven financial reasons not to use Windows</title>
       <link>http://neil.grogan.ie/2007/08/seven-financial-reasons-not-to-use.html</link>
-      <pubDate>Mon, 06 Aug 2007 00:00:00 IST</pubDate>
+      <pubDate>Mon, 06 Aug 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/08/seven-financial-reasons-not-to-use</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://img516.imageshack.us/my.php?image=windowslogo2oy4.jpg&quot;&gt;&lt;img src=&quot;http://img516.imageshack.us/img516/8713/windowslogo2oy4.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
@@ -5255,7 +5255,7 @@ reading this, especially if your are a &amp;#8220;Microsoft-Only&amp;#8221; shop
     <item>
       <title>HP to Follow Dell into Open Source? and Ubuntu Home Server</title>
       <link>http://neil.grogan.ie/2007/07/hp-to-follow-dell-into-open-source.html</link>
-      <pubDate>Sun, 08 Jul 2007 00:00:00 IST</pubDate>
+      <pubDate>Sun, 08 Jul 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/07/hp-to-follow-dell-into-open-source</guid>
       <description>&lt;p&gt;HP it seems is responding to Dell&amp;#8217;s initiative to
@@ -5303,7 +5303,7 @@ mentioned.
     <item>
       <title>Windows Vista Security - Better than Linux?</title>
       <link>http://neil.grogan.ie/2007/07/windows-vista-security-better-than.html</link>
-      <pubDate>Tue, 03 Jul 2007 00:00:00 IST</pubDate>
+      <pubDate>Tue, 03 Jul 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/07/windows-vista-security-better-than</guid>
       <description>&lt;p&gt;After reading a &lt;a href=&quot;http://blogs.csoonline.com/node/218&quot;&gt;nice article written by Jeff
@@ -5360,7 +5360,7 @@ him not understanding it&amp;#8221;, which I think affects Mr. Jeff Jones.
     <item>
       <title>Threats to Democracy</title>
       <link>http://neil.grogan.ie/2007/06/threats-to-democracy.html</link>
-      <pubDate>Tue, 26 Jun 2007 00:00:00 IST</pubDate>
+      <pubDate>Tue, 26 Jun 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/06/threats-to-democracy</guid>
       <description>&lt;p&gt;After reading about &lt;a href=&quot;http://uk.reuters.com/article/entertainmentNews/idUKL253889920070625?feedType=RSS&amp;amp;rpc=451&amp;amp;sp=true&quot;&gt;Tom Cruise
@@ -5410,7 +5410,7 @@ freedom of faith, democracy etc.  &lt;/p&gt;
     <item>
       <title>Leopard - Worth the wait?</title>
       <link>http://neil.grogan.ie/2007/06/leopard-worth-wait.html</link>
-      <pubDate>Sat, 16 Jun 2007 00:00:00 IST</pubDate>
+      <pubDate>Sat, 16 Jun 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/06/leopard-worth-wait</guid>
       <description>&lt;p&gt;If you haven&amp;#8217;t heard of
@@ -5559,7 +5559,7 @@ computer purchase.
     <item>
       <title>HP Photosmart R927 Review</title>
       <link>http://neil.grogan.ie/2007/06/review.html</link>
-      <pubDate>Thu, 14 Jun 2007 00:00:00 IST</pubDate>
+      <pubDate>Thu, 14 Jun 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/06/review</guid>
       <description>&lt;p&gt;I just bought a HP Photosmart R927, an 8 Megapixel camera from
@@ -5668,7 +5668,7 @@ update this if I ever have any problems with it!&lt;/p&gt;
     <item>
       <title>Bill Gates lists Vista 'innovations'</title>
       <link>http://neil.grogan.ie/2007/05/bill-gates-lists-vista.html</link>
-      <pubDate>Tue, 29 May 2007 00:00:00 IST</pubDate>
+      <pubDate>Tue, 29 May 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/05/bill-gates-lists-vista</guid>
       <description>&lt;p&gt;Hard to believe really, Mr.Gates lists Windows Vista &amp;#8216;innovations&amp;#8217;. Now
@@ -5688,7 +5688,7 @@ and greatest trends in the industry.
     <item>
       <title>Dell Sells Ubuntu 7.04</title>
       <link>http://neil.grogan.ie/2007/05/dell-sells-ubuntu-704.html</link>
-      <pubDate>Sat, 26 May 2007 00:00:00 IST</pubDate>
+      <pubDate>Sat, 26 May 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/05/dell-sells-ubuntu-704</guid>
       <description>&lt;p&gt;Dell Computers has started
@@ -5724,7 +5724,7 @@ software desktop. Dell list advantages in one of their videos:&lt;br /&gt;
     <item>
       <title>Update on RTE and the Creative Commons</title>
       <link>http://neil.grogan.ie/2007/05/update-on-rte-and-creative-commons.html</link>
-      <pubDate>Thu, 17 May 2007 00:00:00 IST</pubDate>
+      <pubDate>Thu, 17 May 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/05/update-on-rte-and-creative-commons</guid>
       <description>&lt;p&gt;Unbeknownst to me, with &lt;a href=&quot;http://www.dueyfinster.com/2007/05/irish-elections-creative-commons.html&quot; title=&quot;RTE, Irish Elections &amp;amp; Creative Commons&quot;&gt;my quick thinking on the positive developments
@@ -5753,7 +5753,7 @@ who voted!
     <item>
       <title>Kerataconus and Me</title>
       <link>http://neil.grogan.ie/2007/05/kerataconus-me.html</link>
-      <pubDate>Sun, 06 May 2007 00:00:00 IST</pubDate>
+      <pubDate>Sun, 06 May 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/05/kerataconus-me</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/en/f/f3/KC-lens.jpg&quot; alt=&quot;image&quot; /&gt;Well
@@ -5796,7 +5796,7 @@ found out I had it:
     <item>
       <title>Irish Elections and Creative Commons</title>
       <link>http://neil.grogan.ie/2007/05/irish-elections-creative-commons.html</link>
-      <pubDate>Sun, 06 May 2007 00:00:00 IST</pubDate>
+      <pubDate>Sun, 06 May 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/05/irish-elections-creative-commons</guid>
       <description>&lt;p&gt;This
@@ -5827,7 +5827,7 @@ its lead and extend to other programs:&lt;br /&gt;
     <item>
       <title>Ultimate Games Disc</title>
       <link>http://neil.grogan.ie/2007/04/ultimate-games-disc.html</link>
-      <pubDate>Mon, 16 Apr 2007 00:00:00 IST</pubDate>
+      <pubDate>Mon, 16 Apr 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/04/ultimate-games-disc</guid>
       <description>&lt;p&gt;I got inspiration over this past Easter holidays, being bored, I gave
@@ -5862,7 +5862,7 @@ open source gaming!&lt;/p&gt;
     <item>
       <title>Apple / EMI Deal - Thank the EU?</title>
       <link>http://neil.grogan.ie/2007/04/apple-emi-deal-thank-eu.html</link>
-      <pubDate>Wed, 04 Apr 2007 00:00:00 IST</pubDate>
+      <pubDate>Wed, 04 Apr 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/04/apple-emi-deal-thank-eu</guid>
       <description>&lt;p&gt;I heard the news one
@@ -5899,7 +5899,7 @@ like transatlantic air travel, it could literally &amp;#8216;open up the skies&a
     <item>
       <title>My Top 10 Applications of 2007</title>
       <link>http://neil.grogan.ie/2007/04/applications-of-2007.html</link>
-      <pubDate>Sun, 01 Apr 2007 00:00:00 IST</pubDate>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/04/applications-of-2007</guid>
       <description>&lt;p&gt;Here&amp;#8217;s a few
@@ -6017,7 +6017,7 @@ and other interesting stuff alot of people ask me questions about.
     <item>
       <title>Mac iPod Video Tutorial</title>
       <link>http://neil.grogan.ie/2007/03/mac-ipod-video-tutorial.html</link>
-      <pubDate>Sun, 11 Mar 2007 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 11 Mar 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/03/mac-ipod-video-tutorial</guid>
       <description>&lt;p&gt;I recorded a tutorial,
@@ -6043,7 +6043,7 @@ to Youtube, which I think for a first try ain&amp;#8217;t bad!! Watch it here:  
     <item>
       <title>Tor helps Privacy</title>
       <link>http://neil.grogan.ie/2007/03/tor-helps-privacy.html</link>
-      <pubDate>Sat, 10 Mar 2007 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 10 Mar 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/03/tor-helps-privacy</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://img89.imageshack.us/my.php?image=efftorlogo400x282kw9.jpg&quot; title=&quot;Tor Logo&quot;&gt;&lt;img src=&quot;http://img89.imageshack.us/img89/3386/efftorlogo400x282kw9.jpg&quot; alt=&quot;Tor
@@ -6081,7 +6081,7 @@ here: &lt;a href=&quot;http://tor.eff.org/download.html.en&quot; title=&quot;TOR
     <item>
       <title>Open Sourcing your CV</title>
       <link>http://neil.grogan.ie/2007/03/open-sourcing-your-cv.html</link>
-      <pubDate>Thu, 01 Mar 2007 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/03/open-sourcing-your-cv</guid>
       <description>&lt;p&gt;Just like software. it can be
@@ -6110,7 +6110,7 @@ See Red Hats intriguing &amp;#8220;Truth Happens&amp;#8221; advert:  &lt;/p&gt;
     <item>
       <title>UK Parliamentary debate "Copyright is not a pension fund"</title>
       <link>http://neil.grogan.ie/2007/02/uk-parliamentary-debate-is-not-pension.html</link>
-      <pubDate>Sat, 17 Feb 2007 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 17 Feb 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/02/uk-parliamentary-debate-is-not-pension</guid>
       <description>&lt;p&gt;I found this doing a search for Domino
@@ -6157,7 +6157,7 @@ technologists being record bosses!
     <item>
       <title>Updates and New look</title>
       <link>http://neil.grogan.ie/2007/02/updates-and-new-look.html</link>
-      <pubDate>Wed, 14 Feb 2007 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 Feb 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/02/updates-and-new-look</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img164.imageshack.us/img164/9038/wordpresslogoxv7.jpg&quot; alt=&quot;Wordpress
@@ -6200,7 +6200,7 @@ credits due, hopefully when I see good things I&amp;#8217;ll write about it!
     <item>
       <title>Nokia N800 Review</title>
       <link>http://neil.grogan.ie/2007/02/review.html</link>
-      <pubDate>Sun, 11 Feb 2007 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 11 Feb 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/02/review</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://img76.imageshack.us/my.php?image=nokian800internettabletdn5.jpg&quot; title=&quot;Hosted Kindly by Imageshack&quot;&gt;&lt;img src=&quot;http://img76.imageshack.us/img76/8830/nokian800internettabletdn5.jpg&quot; alt=&quot;Nokia
@@ -6312,7 +6312,7 @@ Gnome&lt;/a&gt;.
     <item>
       <title>Vista is released; Ubuntu gets .exe!</title>
       <link>http://neil.grogan.ie/2007/02/vista-is-released-ubuntu-gets-exe.html</link>
-      <pubDate>Fri, 02 Feb 2007 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 02 Feb 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/02/vista-is-released-ubuntu-gets-exe</guid>
       <description>&lt;p&gt;Well as
@@ -6355,7 +6355,7 @@ etc. we have all come to accept on the windows platform, but why?
     <item>
       <title>My Plan to Digitise my past, for the future</title>
       <link>http://neil.grogan.ie/2007/01/my-plan-to-digitise-my-past-for-future.html</link>
-      <pubDate>Tue, 30 Jan 2007 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 30 Jan 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/01/my-plan-to-digitise-my-past-for-future</guid>
       <description>&lt;p&gt;I am embarking on a journey I believe everyone should:
@@ -6391,7 +6391,7 @@ document I have in a digital format sometime in the near future.
     <item>
       <title>BBC to host Multi-OS Debate and My First Web Auction</title>
       <link>http://neil.grogan.ie/2007/01/bbc-to-host-multi-os-debate-my-first.html</link>
-      <pubDate>Thu, 25 Jan 2007 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 25 Jan 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/01/bbc-to-host-multi-os-debate-my-first</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img111.imageshack.us/img111/7099/tuxcasefront7rw.jpg&quot; alt=&quot;Tux, the Linux
@@ -6424,7 +6424,7 @@ Auction&quot; title=&quot;Nokia 770 Ebay Auction&quot; /&gt;
     <item>
       <title>Get the facts, about "Get the Facts"</title>
       <link>http://neil.grogan.ie/2007/01/get-facts-about-get-facts.html</link>
-      <pubDate>Sun, 21 Jan 2007 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 21 Jan 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/01/get-facts-about-get-facts</guid>
       <description>&lt;p&gt;Just a quick 
@@ -6456,7 +6456,7 @@ properly.
     <item>
       <title>Engineering Drawing</title>
       <link>http://neil.grogan.ie/2007/01/engineering-drawing.html</link>
-      <pubDate>Sun, 14 Jan 2007 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 14 Jan 2007 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2007/01/engineering-drawing</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img265.imageshack.us/img265/8779/logogsubq2.gif&quot; alt=&quot;Google Sketchup Logo, Copyright
@@ -6485,7 +6485,7 @@ Imageshack&quot; title=&quot;Engineering Project (c) Neil Grogan. Kindly Hosted 
     <item>
       <title>New Widget for our RSS feed!</title>
       <link>http://neil.grogan.ie/2006/12/new-widget-for-our-rss-feed.html</link>
-      <pubDate>Sun, 31 Dec 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 31 Dec 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/12/new-widget-for-our-rss-feed</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img216.imageshack.us/img216/1396/picture2tn0.png&quot; alt=&quot;Duey Finsters RSS
@@ -6504,7 +6504,7 @@ now&lt;/a&gt;!
     <item>
       <title>Video iPod and Freespire</title>
       <link>http://neil.grogan.ie/2006/12/video-ipod-and-freespire.html</link>
-      <pubDate>Sat, 30 Dec 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 30 Dec 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/12/video-ipod-and-freespire</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img412.imageshack.us/img412/8155/imageshj0.jpg&quot; alt=&quot;IPod Video (Image
@@ -6552,7 +6552,7 @@ wins over the Windows fans!
     <item>
       <title>Free Domain name off AOL, too good to be true?</title>
       <link>http://neil.grogan.ie/2006/12/free-domain-name-off-aol-too-good-to-be.html</link>
-      <pubDate>Tue, 19 Dec 2006 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 19 Dec 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/12/free-domain-name-off-aol-too-good-to-be</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.aol.com/&quot; title=&quot;AOL&quot;&gt;AOL&lt;/a&gt;, the longtime dialup king,
@@ -6590,7 +6590,7 @@ yet to try it out&amp;#8230;&amp;#8230;
     <item>
       <title>Irish Blog Awards</title>
       <link>http://neil.grogan.ie/2006/12/irish-blog-awards.html</link>
-      <pubDate>Wed, 13 Dec 2006 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 13 Dec 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/12/irish-blog-awards</guid>
       <description>&lt;p&gt;Well apparently I am a new kid on the block, according to the &lt;a href=&quot;http://awards.ie/blogawards/2006/11/27/new-blogs-on-the-block-november-27th-2006/&quot; title=&quot;Irsh Blog Awards&quot;&gt;Irish
@@ -6636,7 +6636,7 @@ really!&lt;/p&gt;
     <item>
       <title>Nokia 6234 Video Test</title>
       <link>http://neil.grogan.ie/2006/12/video-test.html</link>
-      <pubDate>Sun, 10 Dec 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 10 Dec 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/12/video-test</guid>
       <description>&lt;p&gt;I recently got a hold of my Christmas
@@ -6659,7 +6659,7 @@ mini memory card, for some quick music on the go!
     <item>
       <title>Home made server...</title>
       <link>http://neil.grogan.ie/2006/12/home-made-server.html</link>
-      <pubDate>Tue, 05 Dec 2006 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 05 Dec 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/12/home-made-server</guid>
       <description>&lt;p&gt;I managed after ages of trying hard, to
@@ -6694,7 +6694,7 @@ write it chugs away gleefully (for now&amp;#8230;&amp;#8230;&amp;#8230;)
     <item>
       <title>IEDR too stringent? Sorry about my email!</title>
       <link>http://neil.grogan.ie/2006/11/iedr-too-stringent-sorry-about-my-email.html</link>
-      <pubDate>Sun, 19 Nov 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 19 Nov 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/11/iedr-too-stringent-sorry-about-my-email</guid>
       <description>&lt;p&gt;We all want to stop spam and phishing domains, it hurts the
@@ -6735,7 +6735,7 @@ with my DNS settings. It should be all fixed now!  &lt;/p&gt;
     <item>
       <title>Wiki goes live, downtime and Macbook Back!</title>
       <link>http://neil.grogan.ie/2006/11/wiki-goes-live-downtime-and-macbook.html</link>
-      <pubDate>Sun, 12 Nov 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 12 Nov 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/11/wiki-goes-live-downtime-and-macbook</guid>
       <description>&lt;p&gt;I have a
@@ -6786,7 +6786,7 @@ Writing this post from it now by the way&amp;#8230;&amp;#8230;.
     <item>
       <title>Broken Macbook Update Part II</title>
       <link>http://neil.grogan.ie/2006/11/broken-macbook-update-part-ii.html</link>
-      <pubDate>Fri, 03 Nov 2006 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 03 Nov 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/11/broken-macbook-update-part-ii</guid>
       <description>&lt;p&gt;Looks like
@@ -6816,7 +6816,7 @@ new heatsink and logic board&amp;#8230;. fingers crossed anyway!
     <item>
       <title>Macbook Issue Identified</title>
       <link>http://neil.grogan.ie/2006/11/macbook-issue-identified.html</link>
-      <pubDate>Wed, 01 Nov 2006 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/11/macbook-issue-identified</guid>
       <description>&lt;p&gt;Turns out my prediction
@@ -6843,7 +6843,7 @@ to add them as a category.
     <item>
       <title>Internet Explorer thanks Firefox, sincerely?</title>
       <link>http://neil.grogan.ie/2006/10/internet-explorer-thanks-firefox.html</link>
-      <pubDate>Thu, 26 Oct 2006 00:00:00 IST</pubDate>
+      <pubDate>Thu, 26 Oct 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/10/internet-explorer-thanks-firefox</guid>
       <description>&lt;p&gt;Reading on my favourite tech news site. Slashdot (
@@ -6877,7 +6877,7 @@ whatever platform!), Opera, Safari, Konqueror and the rest!
     <item>
       <title>Blog Updates, Calendar Updates, broken Macbook</title>
       <link>http://neil.grogan.ie/2006/10/blog-updates-calendar-updates-broken.html</link>
-      <pubDate>Wed, 25 Oct 2006 00:00:00 IST</pubDate>
+      <pubDate>Wed, 25 Oct 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/10/blog-updates-calendar-updates-broken</guid>
       <description>&lt;p&gt;Well first of all, there has been some blog updates, inspired
@@ -6929,7 +6929,7 @@ have been affected by this, luckily it was still filtered by
     <item>
       <title>Best Bush Satire, Ever.</title>
       <link>http://neil.grogan.ie/2006/10/best-bush-satire-ever.html</link>
-      <pubDate>Wed, 18 Oct 2006 00:00:00 IST</pubDate>
+      <pubDate>Wed, 18 Oct 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/10/best-bush-satire-ever</guid>
       <description>&lt;p&gt;This Ladies and Gents, needs no introduction, for you all know George W.
@@ -6947,7 +6947,7 @@ nifty than that awful Iframe calendar I had before!
     <item>
       <title>Google buy YouTube, GTalk for everyone and Blogger Bliss</title>
       <link>http://neil.grogan.ie/2006/10/google-buy-youtube-gtalk-for-everyone.html</link>
-      <pubDate>Tue, 10 Oct 2006 00:00:00 IST</pubDate>
+      <pubDate>Tue, 10 Oct 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/10/google-buy-youtube-gtalk-for-everyone</guid>
       <description>&lt;p&gt;I haven&amp;#8217;t posted in a while :-( Ah well
@@ -6987,7 +6987,7 @@ post more often and soon&amp;#8230;&amp;#8230;&amp;#8230;&amp;#8230;..
     <item>
       <title>Macbook Update, Fonero Haven, Commercial Darknet and College!</title>
       <link>http://neil.grogan.ie/2006/08/macbook-update-fonero-haven-commercial.html</link>
-      <pubDate>Wed, 16 Aug 2006 00:00:00 IST</pubDate>
+      <pubDate>Wed, 16 Aug 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/08/macbook-update-fonero-haven-commercial</guid>
       <description>&lt;p&gt;I have ordered and I am expecting
@@ -7045,7 +7045,7 @@ too hard to achieve!
     <item>
       <title>Why I am getting an Apple MacBook</title>
       <link>http://neil.grogan.ie/2006/08/feel-i-need-to-confess-why-i-am-buying.html</link>
-      <pubDate>Sat, 12 Aug 2006 00:00:00 IST</pubDate>
+      <pubDate>Sat, 12 Aug 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/08/feel-i-need-to-confess-why-i-am-buying</guid>
       <description>&lt;p&gt;I feel I need to confess why I am buying a
@@ -7105,7 +7105,7 @@ iPod!&lt;/p&gt;
     <item>
       <title>Law and the Interweb</title>
       <link>http://neil.grogan.ie/2006/08/law-and-interweb.html</link>
-      <pubDate>Wed, 02 Aug 2006 00:00:00 IST</pubDate>
+      <pubDate>Wed, 02 Aug 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/08/law-and-interweb</guid>
       <description>&lt;p&gt;I am writing this because, I regret to say, the stupidity of humanity.
@@ -7151,7 +7151,7 @@ should be standard practice! /endrant&lt;em&gt;**&lt;/em&gt;  &lt;/p&gt;
     <item>
       <title>New Design, Ranking, Gmail Hosted, OS 2006 Finale and YouOS</title>
       <link>http://neil.grogan.ie/2006/07/new-design-ranking-gmail-hosted-os-2006.html</link>
-      <pubDate>Wed, 12 Jul 2006 00:00:00 IST</pubDate>
+      <pubDate>Wed, 12 Jul 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/07/new-design-ranking-gmail-hosted-os-2006</guid>
       <description>&lt;p&gt;Hope you like the new look Duey Finsters. Like Google style hoo-pah, we
@@ -7195,7 +7195,7 @@ you have time!&lt;/p&gt;
     <item>
       <title>My Letter to U.S. Dept of Commerce, RE: The Future of the Internet</title>
       <link>http://neil.grogan.ie/2006/07/my-letter-to-us-dept-of-commerce-re.html</link>
-      <pubDate>Mon, 03 Jul 2006 00:00:00 IST</pubDate>
+      <pubDate>Mon, 03 Jul 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/07/my-letter-to-us-dept-of-commerce-re</guid>
       <description>&lt;p&gt;This is my letter to U.S. Dept. of
@@ -7235,7 +7235,7 @@ Neil Grogan
     <item>
       <title>Questions, Hosting and IT 2006!</title>
       <link>http://neil.grogan.ie/2006/06/questions-hosting-and-it-2006.html</link>
-      <pubDate>Fri, 23 Jun 2006 00:00:00 IST</pubDate>
+      <pubDate>Fri, 23 Jun 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/06/questions-hosting-and-it-2006</guid>
       <description>&lt;p&gt;I recently
@@ -7286,7 +7286,7 @@ is, a truly cool Internet tool.
     <item>
       <title>FON, New Job and Commuting!</title>
       <link>http://neil.grogan.ie/2006/06/fon-new-job-and-commuting.html</link>
-      <pubDate>Sun, 04 Jun 2006 00:00:00 IST</pubDate>
+      <pubDate>Sun, 04 Jun 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/06/fon-new-job-and-commuting</guid>
       <description>&lt;p&gt;I regularly read other
@@ -7331,7 +7331,7 @@ baffles me the most, and it could make a huge difference, one ticket! &lt;br /&g
     <item>
       <title>Nuclear or Nothing?</title>
       <link>http://neil.grogan.ie/2006/05/nuclear-or-nothing.html</link>
-      <pubDate>Thu, 11 May 2006 00:00:00 IST</pubDate>
+      <pubDate>Thu, 11 May 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/05/nuclear-or-nothing</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://static.flickr.com/56/138071833_708a52b884.jpg&quot; alt=&quot;Nuclear Shelter&quot; /&gt;&lt;/p&gt;
@@ -7383,7 +7383,7 @@ renewab&lt;/a&gt;
     <item>
       <title>Best Radio Podcasts</title>
       <link>http://neil.grogan.ie/2006/05/best-radio-podcasts.html</link>
-      <pubDate>Tue, 02 May 2006 00:00:00 IST</pubDate>
+      <pubDate>Tue, 02 May 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/05/best-radio-podcasts</guid>
       <description>&lt;p&gt;Even while podcasts are relatively new (well a couple of years - like
@@ -7436,7 +7436,7 @@ continually, so more to listen to every day!&lt;/p&gt;
     <item>
       <title>Spam, will it ever stop?</title>
       <link>http://neil.grogan.ie/2006/04/spam-will-it-ever-stop.html</link>
-      <pubDate>Sat, 29 Apr 2006 00:00:00 IST</pubDate>
+      <pubDate>Sat, 29 Apr 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/04/spam-will-it-ever-stop</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://static.flickr.com/54/136808455_58aae5f13d_t.jpg&quot; alt=&quot;CAN Spam&quot; /&gt;&lt;/p&gt;
@@ -7468,7 +7468,7 @@ message!
     <item>
       <title>Google will organise your life</title>
       <link>http://neil.grogan.ie/2006/04/google-will-organise-your-life.html</link>
-      <pubDate>Sun, 16 Apr 2006 00:00:00 IST</pubDate>
+      <pubDate>Sun, 16 Apr 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/04/google-will-organise-your-life</guid>
       <description>&lt;p&gt;&lt;a href=&quot;http://www.dueyfinster.eu/license/fairuse&quot; title=&quot;Fair Use&quot;&gt;&lt;img src=&quot;http://img80.imageshack.us/img80/9618/calendar6mf.gif&quot; alt=&quot;Picture Of Google Calendar
@@ -7510,7 +7510,7 @@ market share at expense of MSN and Yahoo, Google is here to stay.&lt;/p&gt;
     <item>
       <title>Ekiga's Vorbis</title>
       <link>http://neil.grogan.ie/2006/04/ekigas-vorbis.html</link>
-      <pubDate>Thu, 13 Apr 2006 00:00:00 IST</pubDate>
+      <pubDate>Thu, 13 Apr 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/04/ekigas-vorbis</guid>
       <description>&lt;h2 id=&quot;ekigas&quot;&gt;[Ekiga’s&lt;/h2&gt;
@@ -7552,7 +7552,7 @@ us!
     <item>
       <title>Europe's New Voice</title>
       <link>http://neil.grogan.ie/2006/04/europes-new-voice.html</link>
-      <pubDate>Sun, 09 Apr 2006 00:00:00 IST</pubDate>
+      <pubDate>Sun, 09 Apr 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/04/europes-new-voice</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img218.imageshack.us/img218/3879/c14033712l206wv.jpg&quot; alt=&quot;Picture Of Dot EU
@@ -7589,7 +7589,7 @@ makes us all proud to be part of the largest trading block in the world.
     <item>
       <title>Bebo and Beyond..</title>
       <link>http://neil.grogan.ie/2006/03/bebo-and-beyond.html</link>
-      <pubDate>Tue, 28 Mar 2006 00:00:00 IST</pubDate>
+      <pubDate>Tue, 28 Mar 2006 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/03/bebo-and-beyond</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://img58.imageshack.us/img58/7163/logo6cd.gif&quot; alt=&quot;Bebo
@@ -7640,7 +7640,7 @@ or Bebo….ugggh such a hard choice!&lt;/p&gt;
     <item>
       <title>Mozilla's Millions</title>
       <link>http://neil.grogan.ie/2006/03/mozillas-millions.html</link>
-      <pubDate>Sun, 26 Mar 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 26 Mar 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/03/mozillas-millions</guid>
       <description>&lt;p&gt;&lt;img src=&quot;http://www.firefox-browser.de/MediaWiki/images/b/be/ThunderbirdLogo.jpg&quot; alt=&quot;Thunderbird
@@ -7686,7 +7686,7 @@ big developers, and increase its workforce form 40 to 150.
     <item>
       <title>Just Klik it!</title>
       <link>http://neil.grogan.ie/2006/03/just-klik-it.html</link>
-      <pubDate>Sat, 25 Mar 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 25 Mar 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/03/just-klik-it</guid>
       <description>&lt;p&gt;One of the biggest complaints of Linux is that software doesn’t install
@@ -7727,7 +7727,7 @@ Del.icio.us&lt;/a&gt;&lt;/p&gt;
     <item>
       <title>Virtual Ubuntu</title>
       <link>http://neil.grogan.ie/2006/03/virtual-ubuntu.html</link>
-      <pubDate>Fri, 10 Mar 2006 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 10 Mar 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/03/virtual-ubuntu</guid>
       <description>&lt;p&gt;So you have heard of Ubuntu, maybe they have even shipped you a free
@@ -7761,7 +7761,7 @@ of charge.&lt;/a&gt; &lt;em&gt;**&lt;/em&gt;  &lt;/p&gt;
     <item>
       <title>Linux VS. Windows</title>
       <link>http://neil.grogan.ie/2006/03/linux-vs-windows.html</link>
-      <pubDate>Mon, 06 Mar 2006 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 06 Mar 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/03/linux-vs-windows</guid>
       <description>&lt;p&gt;I use Linux, I also use Windows. I see the merits of the two, as they
@@ -7828,7 +7828,7 @@ life, and its due to change more lives this century than ever before.&lt;/p&gt;
     <item>
       <title>Gallery, Riots and Policy Change</title>
       <link>http://neil.grogan.ie/2006/03/gallery-riots-and-policy-change.html</link>
-      <pubDate>Thu, 02 Mar 2006 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 02 Mar 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/03/gallery-riots-and-policy-change</guid>
       <description>&lt;p&gt;Well I
@@ -7876,7 +7876,7 @@ expect it soon! &lt;em&gt;**&lt;/em&gt;
     <item>
       <title>German Trip</title>
       <link>http://neil.grogan.ie/2006/02/german-trip.html</link>
-      <pubDate>Mon, 13 Feb 2006 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 13 Feb 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/02/german-trip</guid>
       <description>&lt;p&gt;I recently travelled to Munich, Germany on a recent
@@ -7917,7 +7917,7 @@ I should have photos soon!
     <item>
       <title>Wiki, Awards and Wifi</title>
       <link>http://neil.grogan.ie/2006/01/wiki-awards-and-wifi.html</link>
-      <pubDate>Sun, 22 Jan 2006 00:00:00 GMT</pubDate>
+      <pubDate>Sun, 22 Jan 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/01/wiki-awards-and-wifi</guid>
       <description>&lt;p&gt;Well the last couple of weeks have
@@ -7950,7 +7950,7 @@ needs a head examination! &lt;br /&gt;
     <item>
       <title>New Year, Lets Review!</title>
       <link>http://neil.grogan.ie/2006/01/new-year-lets-review.html</link>
-      <pubDate>Fri, 06 Jan 2006 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 06 Jan 2006 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2006/01/new-year-lets-review</guid>
       <description>&lt;p&gt;Well another year has
@@ -8006,7 +8006,7 @@ Time Magazine doesn’t give iPod gadget of the century this year! &lt;br /&gt;
     <item>
       <title>Million Dollars, Nice!</title>
       <link>http://neil.grogan.ie/2005/12/million-dollars-nice.html</link>
-      <pubDate>Fri, 30 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 30 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/million-dollars-nice</guid>
       <description>&lt;p&gt;A student in England has almost reached his target of one million dollars, 
@@ -8048,7 +8048,7 @@ do with his new found fortune.&lt;/p&gt;
     <item>
       <title>Nokia 770 Internet Tablet</title>
       <link>http://neil.grogan.ie/2005/12/internet-tablet.html</link>
-      <pubDate>Fri, 23 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 23 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/internet-tablet</guid>
       <description>&lt;p&gt;I got it! UPS delivered the Nokia 770 Internet Tablet. What can I say?
@@ -8116,7 +8116,7 @@ Anywhere you think I should go? Please tell me, it will be useful!&lt;/p&gt;
     <item>
       <title>Google Video</title>
       <link>http://neil.grogan.ie/2005/12/google-video.html</link>
-      <pubDate>Fri, 23 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 23 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/google-video</guid>
       <description>&lt;p&gt;What a fantastic service Google now offer with their Google Video platform. 
@@ -8143,7 +8143,7 @@ called &lt;a href=&quot;http://video.google.com/videoplay?docid=-329292565715926
     <item>
       <title>Click Online</title>
       <link>http://neil.grogan.ie/2005/12/click-online.html</link>
-      <pubDate>Fri, 23 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 23 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/click-online</guid>
       <description>&lt;p&gt;In case you have never looked at it, Click Online is the flagship 
@@ -8160,7 +8160,7 @@ are explained fully.&lt;/p&gt;
     <item>
       <title>Eurosceptics</title>
       <link>http://neil.grogan.ie/2005/12/eurosceptics.html</link>
-      <pubDate>Sat, 17 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 17 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/eurosceptics</guid>
       <description>&lt;p&gt;The British Press annoys me so much, they way they constantly get it 
@@ -8197,7 +8197,7 @@ identity with France or Germany any more!&lt;/p&gt;
     <item>
       <title>The Future.....</title>
       <link>http://neil.grogan.ie/2005/12/future.html</link>
-      <pubDate>Fri, 16 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 16 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/future</guid>
       <description>&lt;p&gt;While using instant messenger I had a brainwave, what will the tech
@@ -8219,7 +8219,7 @@ and Del.icio.us.&lt;/p&gt;
     <item>
       <title>In Sickness and in Health!</title>
       <link>http://neil.grogan.ie/2005/12/in-sickness-and-in-health.html</link>
-      <pubDate>Wed, 14 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 14 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/in-sickness-and-in-health</guid>
       <description>&lt;p&gt;I have a throat infection, so I get a week off!! I went to the doctor
@@ -8238,7 +8238,7 @@ to play and view all their media.&lt;/p&gt;
     <item>
       <title>Wireless, New Design and Web Services</title>
       <link>http://neil.grogan.ie/2005/12/wireless-new-design-and-web-services.html</link>
-      <pubDate>Sat, 10 Dec 2005 00:00:00 GMT</pubDate>
+      <pubDate>Sat, 10 Dec 2005 00:00:00 CET</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2005/12/wireless-new-design-and-web-services</guid>
       <description>&lt;p&gt;Welcome to the new and improved Duey Finsters. As I mentioned before,
@@ -8275,7 +8275,7 @@ space on the page.&lt;/p&gt;
     <item>
       <title>Duey Finster</title>
       <link>http://neil.grogan.ie/2004/10/duey-finster.html</link>
-      <pubDate>Sun, 24 Oct 2004 00:00:00 IST</pubDate>
+      <pubDate>Sun, 24 Oct 2004 00:00:00 CEST</pubDate>
       <author>Neil Grogan</author>
       <guid>http://neil.grogan.ie/2004/10/duey-finster</guid>
       <description>&lt;p&gt;Awake Mornin at nearly six am I am writing this at six am in 

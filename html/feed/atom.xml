@@ -3,7 +3,7 @@
   <title>Neil Grogans Site</title>
   <link href="http://neil.grogan.ie/"/>
   <link type="application/atom+xml" rel="self" href="http://neil.grogan.ie/atom.xml"/>
-  <updated>2013-07-20T13:50:59+01:00</updated>
+  <updated>2013-08-03T18:18:02+02:00</updated>
   <id>http://neil.grogan.ie/</id>
   <author>
     <name>Neil Grogan</name>
@@ -15,7 +15,7 @@
     <id>http://neil.grogan.ie/2013/06/ssh-config-aliases</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2013/06/ssh-config-aliases.html"/>
     <title>SSH Config Aliases</title>
-    <updated>2013-06-20T00:00:00+01:00</updated>
+    <updated>2013-06-20T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -84,7 +84,7 @@ host ??*
     <id>http://neil.grogan.ie/2013/05/custom-colourful-bash-prompt</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2013/05/custom-colourful-bash-prompt.html"/>
     <title>Custom Colourful Bash Prompt</title>
-    <updated>2013-05-10T00:00:00+01:00</updated>
+    <updated>2013-05-10T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -111,7 +111,7 @@ host ??*
     <id>http://neil.grogan.ie/2013/04/document-it-please</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2013/04/document-it-please.html"/>
     <title>Document it Please</title>
-    <updated>2013-04-22T00:00:00+01:00</updated>
+    <updated>2013-04-22T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -128,7 +128,7 @@ host ??*
     <id>http://neil.grogan.ie/2013/03/tor-talks</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2013/03/tor-talks.html"/>
     <title>Tor Talks</title>
-    <updated>2013-03-09T00:00:00+00:00</updated>
+    <updated>2013-03-09T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -158,7 +158,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <id>http://neil.grogan.ie/2013/01/stitcher-is-audio-podcasts-done-right</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2013/01/stitcher-is-audio-podcasts-done-right.html"/>
     <title>Stitcher is (audio) podcasts done right</title>
-    <updated>2013-01-22T00:00:00+00:00</updated>
+    <updated>2013-01-22T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -195,7 +195,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/12/first-experiences-with-arm-chromebook</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/12/first-experiences-with-arm-chromebook.html"/>
     <title>First Experiences with an ARM Chromebook</title>
-    <updated>2012-12-08T00:00:00+00:00</updated>
+    <updated>2012-12-08T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -217,7 +217,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/10/chrome-vs-internet-explorer-audience</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/10/chrome-vs-internet-explorer-audience.html"/>
     <title>Chrome vs. Internet Explorer Audience</title>
-    <updated>2012-10-30T00:00:00+00:00</updated>
+    <updated>2012-10-30T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -246,7 +246,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/10/grab-popcorn</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/10/grab-popcorn.html"/>
     <title>Grab the Popcorn!</title>
-    <updated>2012-10-02T00:00:00+01:00</updated>
+    <updated>2012-10-02T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -270,7 +270,7 @@ Don your tinfoil hat now!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/09/tonsillectomy</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/09/tonsillectomy.html"/>
     <title>Tonsillectomy</title>
-    <updated>2012-09-09T00:00:00+01:00</updated>
+    <updated>2012-09-09T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -380,7 +380,7 @@ I forget to drink water for a period and my thorat is dry. If you suffer from  d
     <id>http://neil.grogan.ie/2012/08/the-linux-desktop-has-place</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/08/the-linux-desktop-has-place.html"/>
     <title>The Linux Desktop has a place</title>
-    <updated>2012-08-30T00:00:00+01:00</updated>
+    <updated>2012-08-30T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -405,7 +405,7 @@ I forget to drink water for a period and my thorat is dry. If you suffer from  d
     <id>http://neil.grogan.ie/2012/08/review-of-steve-jobs-biography</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/08/review-of-steve-jobs-biography.html"/>
     <title>Review of Steve Jobs Biography</title>
-    <updated>2012-08-13T00:00:00+01:00</updated>
+    <updated>2012-08-13T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -439,7 +439,7 @@ publish due to Apple&amp;#8217;s corporate strategy being tied to Jobs so much
     <id>http://neil.grogan.ie/2012/07/whats-in-your-dock</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/07/whats-in-your-dock.html"/>
     <title>What's in your dock?</title>
-    <updated>2012-07-23T00:00:00+01:00</updated>
+    <updated>2012-07-23T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -486,7 +486,7 @@ publish due to Apple&amp;#8217;s corporate strategy being tied to Jobs so much
     <id>http://neil.grogan.ie/2012/05/programming-is-hard</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/05/programming-is-hard.html"/>
     <title>Programming is hard</title>
-    <updated>2012-05-07T00:00:00+01:00</updated>
+    <updated>2012-05-07T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -532,7 +532,7 @@ understanding of programming.&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/05/notepad-a-great-windows-editor</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/05/notepad-a-great-windows-editor.html"/>
     <title>Notepad++: A Great Windows Editor</title>
-    <updated>2012-05-01T00:00:00+01:00</updated>
+    <updated>2012-05-01T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -558,7 +558,7 @@ understanding of programming.&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/04/record-your-terminal-session</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/04/record-your-terminal-session.html"/>
     <title>Record your terminal session</title>
-    <updated>2012-04-29T00:00:00+01:00</updated>
+    <updated>2012-04-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -584,7 +584,7 @@ understanding of programming.&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/04/ikea-in-the-tv-business</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/04/ikea-in-the-tv-business.html"/>
     <title>Ikea in the TV Business?</title>
-    <updated>2012-04-27T00:00:00+01:00</updated>
+    <updated>2012-04-27T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -612,7 +612,7 @@ almost everyones home. They don&amp;#8217;t fit in our units, the cables are in 
     <id>http://neil.grogan.ie/2012/03/the-acr884-tech-slot-005</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/03/the-acr884-tech-slot-005.html"/>
     <title>The @ACR884 Tech Slot #005</title>
-    <updated>2012-03-19T00:00:00+00:00</updated>
+    <updated>2012-03-19T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -649,7 +649,7 @@ on the market and the launch of the iPad 3.&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/02/acr884-tech-slot-004</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/02/acr884-tech-slot-004.html"/>
     <title>The @ACR884 Tech Slot #004</title>
-    <updated>2012-02-20T00:00:00+00:00</updated>
+    <updated>2012-02-20T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -678,7 +678,7 @@ on the market and the launch of the iPad 3.&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/02/the-best-cookbook</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/02/the-best-cookbook.html"/>
     <title>The Best Cookbook</title>
-    <updated>2012-02-04T00:00:00+00:00</updated>
+    <updated>2012-02-04T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -697,7 +697,7 @@ on the market and the launch of the iPad 3.&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/02/very-simple-java-twitter-bot-twitter4j</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/02/very-simple-java-twitter-bot-twitter4j.html"/>
     <title>Very Simple Java Twitter Bot (Twitter4J)</title>
-    <updated>2012-02-01T00:00:00+00:00</updated>
+    <updated>2012-02-01T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -745,7 +745,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/irish-sopa-law-an-overview</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/irish-sopa-law-an-overview.html"/>
     <title>Irish SOPA Law: An Overview</title>
-    <updated>2012-01-25T00:00:00+00:00</updated>
+    <updated>2012-01-25T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -758,7 +758,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/is-4k-the-new-3d-the-networked-society-blog</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/is-4k-the-new-3d-the-networked-society-blog.html"/>
     <title>Is 4K the new 3D? - The Networked Society Blog</title>
-    <updated>2012-01-23T00:00:00+00:00</updated>
+    <updated>2012-01-23T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -775,7 +775,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/nuke-support-in-uk-hits-record-high</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/nuke-support-in-uk-hits-record-high.html"/>
     <title>Nuke support in UK hits record high</title>
-    <updated>2012-01-21T00:00:00+00:00</updated>
+    <updated>2012-01-21T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -790,7 +790,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/why-are-android-smartphones-bigger-than-the-iphone</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/why-are-android-smartphones-bigger-than-the-iphone.html"/>
     <title>Why Are Android Smartphones Bigger Than the iPhone?</title>
-    <updated>2012-01-18T00:00:00+00:00</updated>
+    <updated>2012-01-18T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -805,7 +805,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/air-france-447-flight-data-recorder-transcript-what-really-happened-aboard-air-france-447-popular-mechanics</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/air-france-447-flight-data-recorder-transcript-what-really-happened-aboard-air-france-447-popular-mechanics.html"/>
     <title>Air France 447 Flight-Data Recorder Transcript - What Really Happened Aboard Air France 447 - Popular Mechanics</title>
-    <updated>2012-01-18T00:00:00+00:00</updated>
+    <updated>2012-01-18T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -820,7 +820,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/acr884-tech-slot-003</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/acr884-tech-slot-003.html"/>
     <title>@ACR884 Tech Slot #003 – eReaders</title>
-    <updated>2012-01-16T00:00:00+00:00</updated>
+    <updated>2012-01-16T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -851,7 +851,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/acr884-tech-slot-002-tablets</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/acr884-tech-slot-002-tablets.html"/>
     <title>@ACR884 Tech Slot #002 – Tablets</title>
-    <updated>2012-01-12T00:00:00+00:00</updated>
+    <updated>2012-01-12T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -881,7 +881,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2012/01/acr884-ep001</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2012/01/acr884-ep001.html"/>
     <title>@ACR884 Tech Slot #001 - Phones</title>
-    <updated>2012-01-12T00:00:00+00:00</updated>
+    <updated>2012-01-12T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -910,7 +910,7 @@ team for a great library!&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/12/dont-get-a-kindle</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/12/dont-get-a-kindle.html"/>
     <title>Don't get a Kindle</title>
-    <updated>2011-12-03T00:00:00+00:00</updated>
+    <updated>2011-12-03T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -939,7 +939,7 @@ me is end of sentence, paragraph and book (paper or e).&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/11/all-about-platforms</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/11/all-about-platforms.html"/>
     <title>All About Platforms</title>
-    <updated>2011-11-26T00:00:00+00:00</updated>
+    <updated>2011-11-26T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -985,7 +985,7 @@ which are high value but low volume.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/11/hollywood-tech</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/11/hollywood-tech.html"/>
     <title>Hollywood Tech</title>
-    <updated>2011-11-22T00:00:00+00:00</updated>
+    <updated>2011-11-22T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1017,7 +1017,7 @@ a quick search for &amp;#8220;IP Lookup&amp;#8221;. This is a buzz-word fest to 
     <id>http://neil.grogan.ie/2011/11/faster-with-arch</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/11/faster-with-arch.html"/>
     <title>Faster with Arch</title>
-    <updated>2011-11-19T00:00:00+00:00</updated>
+    <updated>2011-11-19T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1052,7 +1052,7 @@ think smaller more manageable updates (even if small issues arise) will provide 
     <id>http://neil.grogan.ie/2011/11/site-improv</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/11/site-improv.html"/>
     <title>Website Improvements</title>
-    <updated>2011-11-01T00:00:00+00:00</updated>
+    <updated>2011-11-01T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1123,7 +1123,7 @@ in future. Do &lt;a href=&quot;/contact/&quot;&gt;contact me&lt;/a&gt; if you se
     <id>http://neil.grogan.ie/2011/09/nerf-war</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/09/nerf-war.html"/>
     <title>Reflection on 9-11</title>
-    <updated>2011-09-12T00:00:00+01:00</updated>
+    <updated>2011-09-12T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1177,7 +1177,7 @@ organizations trawling Twitter, Facebook, YouTube, and personal blogs to find ou
     <id>http://neil.grogan.ie/2011/08/review-of-motorola-xoom-wifi</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/08/review-of-motorola-xoom-wifi.html"/>
     <title>Review of the Motorola Xoom Wifi</title>
-    <updated>2011-08-27T00:00:00+01:00</updated>
+    <updated>2011-08-27T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1250,7 +1250,7 @@ Honeycomb which is sure to get more exciting as competition to the iPad heats up
     <id>http://neil.grogan.ie/2011/08/usb-headset-review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/08/usb-headset-review.html"/>
     <title>Plantronics .655 USB Headset Review</title>
-    <updated>2011-08-16T00:00:00+01:00</updated>
+    <updated>2011-08-16T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1277,7 +1277,7 @@ expensive and some cheaper. If the price point is a winner, they offer decent va
     <id>http://neil.grogan.ie/2011/07/tech-video-podcasts-worth-watching</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/07/tech-video-podcasts-worth-watching.html"/>
     <title>Tech Video Podcasts Worth Watching</title>
-    <updated>2011-07-13T00:00:00+01:00</updated>
+    <updated>2011-07-13T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1362,7 +1362,7 @@ to ask.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/06/paradox-of-choice</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/06/paradox-of-choice.html"/>
     <title>The Paradox of Choice</title>
-    <updated>2011-06-30T00:00:00+01:00</updated>
+    <updated>2011-06-30T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1379,7 +1379,7 @@ to ask.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/06/accidental-sea-when-humans-disappear</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/06/accidental-sea-when-humans-disappear.html"/>
     <title>Accidental Sea - When Humans Disappear</title>
-    <updated>2011-06-29T00:00:00+01:00</updated>
+    <updated>2011-06-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1396,7 +1396,7 @@ Creepy but very interesting&amp;#8230;&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/06/software-engineering-job</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/06/software-engineering-job.html"/>
     <title>Software Engineering Job</title>
-    <updated>2011-06-13T00:00:00+01:00</updated>
+    <updated>2011-06-13T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1432,7 +1432,7 @@ in 2014 with many posts about the mobile industry, just as I have through colleg
     <id>http://neil.grogan.ie/2011/06/inter-railing-around-europe</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/06/inter-railing-around-europe.html"/>
     <title>Inter-railing around Europe</title>
-    <updated>2011-06-02T00:00:00+01:00</updated>
+    <updated>2011-06-02T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1458,7 +1458,7 @@ our four year honours degree in Computer Science.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/05/final-year-of-honours-degree-complete</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/05/final-year-of-honours-degree-complete.html"/>
     <title>Final Year of Honours Degree, Complete</title>
-    <updated>2011-05-25T00:00:00+01:00</updated>
+    <updated>2011-05-25T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1483,7 +1483,7 @@ the very best in whatever they chose to do and hopefully we&amp;#8217;ll all kee
     <id>http://neil.grogan.ie/2011/05/mobile-carrier-charges</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/05/mobile-carrier-charges.html"/>
     <title>Mobile Carrier Charges</title>
-    <updated>2011-05-19T00:00:00+01:00</updated>
+    <updated>2011-05-19T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1504,7 +1504,7 @@ call charges now, how nostalgia can prove one wrong:&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/05/waterfall</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/05/waterfall.html"/>
     <title>Waterfall</title>
-    <updated>2011-05-14T00:00:00+01:00</updated>
+    <updated>2011-05-14T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1521,7 +1521,7 @@ Co. Kildare. It was taken with an iPhone 4 and edited in Instagram. &lt;/p&gt;
     <id>http://neil.grogan.ie/2011/05/cleaning-your-ps3s-fans</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/05/cleaning-your-ps3s-fans.html"/>
     <title>Cleaning your PS3's fans?</title>
-    <updated>2011-05-11T00:00:00+01:00</updated>
+    <updated>2011-05-11T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1547,7 +1547,7 @@ emanating from my PS3.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/05/geocampus</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/05/geocampus.html"/>
     <title>GeoCampus</title>
-    <updated>2011-05-09T00:00:00+01:00</updated>
+    <updated>2011-05-09T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1589,7 +1589,7 @@ to shine?&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/03/senn-review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/03/senn-review.html"/>
     <title>Sennheiser HD595 Review</title>
-    <updated>2011-03-05T00:00:00+00:00</updated>
+    <updated>2011-03-05T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1643,7 +1643,7 @@ a great buy if you plan to use them as much as I have and will.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/02/iphone4-review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/02/iphone4-review.html"/>
     <title>iPhone 4 Review</title>
-    <updated>2011-02-18T00:00:00+00:00</updated>
+    <updated>2011-02-18T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1704,7 +1704,7 @@ you!&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/02/thoughts-on-ipv6</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/02/thoughts-on-ipv6.html"/>
     <title>Thoughts on IPv6</title>
-    <updated>2011-02-09T00:00:00+00:00</updated>
+    <updated>2011-02-09T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1774,7 +1774,7 @@ to test these skills.&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/02/output-percentage-of-file-bash-code</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/02/output-percentage-of-file-bash-code.html"/>
     <title>Output Percentage of File (Bash code)</title>
-    <updated>2011-02-05T00:00:00+00:00</updated>
+    <updated>2011-02-05T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1809,7 +1809,7 @@ this up in case it&amp;#8217;s useful to anyone else!&lt;/p&gt;
     <id>http://neil.grogan.ie/2011/01/blogging-like-h4x0r</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2011/01/blogging-like-h4x0r.html"/>
     <title>Blogging like a H4x0r</title>
-    <updated>2011-01-31T00:00:00+00:00</updated>
+    <updated>2011-01-31T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1870,7 +1870,7 @@ there. If you ever wanted to know, that&amp;#8217;s blogging like a h4x0r!&lt;/p
     <id>http://neil.grogan.ie/2010/11/my-top-chrome-extensions</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/11/my-top-chrome-extensions.html"/>
     <title>My Top Chrome Extensions</title>
-    <updated>2010-11-22T00:00:00+00:00</updated>
+    <updated>2010-11-22T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1967,7 +1967,7 @@ Google.ie, like magic!
     <id>http://neil.grogan.ie/2010/10/first-video-blog</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/10/first-video-blog.html"/>
     <title>First Video Blog!</title>
-    <updated>2010-10-29T00:00:00+01:00</updated>
+    <updated>2010-10-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -1992,7 +1992,7 @@ Ireland&lt;/a&gt;&lt;/p&gt;
     <id>http://neil.grogan.ie/2010/10/ipad-evolution</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/10/ipad-evolution.html"/>
     <title>iPad Evolution?</title>
-    <updated>2010-10-26T00:00:00+01:00</updated>
+    <updated>2010-10-26T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2044,7 +2044,7 @@ paying directly for the later version you really want!&lt;/p&gt;
     <id>http://neil.grogan.ie/2010/10/alternative-interpretation-of-prodigy</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/10/alternative-interpretation-of-prodigy.html"/>
     <title>Alternative Interpretation of the Prodigy</title>
-    <updated>2010-10-01T00:00:00+01:00</updated>
+    <updated>2010-10-01T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2085,7 +2085,7 @@ I&amp;#8217;ll leave you with the line from &lt;em&gt;Breathe&lt;/em&gt; that sh
     <id>http://neil.grogan.ie/2010/08/motorcycle-gps</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/08/motorcycle-gps.html"/>
     <title>Garmin Zumo 660 Motorcycle GPS</title>
-    <updated>2010-08-04T00:00:00+01:00</updated>
+    <updated>2010-08-04T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2256,7 +2256,7 @@ a must buy for bikers who intend to travel and can justify the cost.&lt;/p&gt;
     <id>http://neil.grogan.ie/2010/06/bsc-in-computing</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/06/bsc-in-computing.html"/>
     <title>BSc in Computing</title>
-    <updated>2010-06-20T00:00:00+01:00</updated>
+    <updated>2010-06-20T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2285,7 +2285,7 @@ full copyright credit goes to Grogan, Howard and MacTiernan 2010.&lt;/p&gt;
     <id>http://neil.grogan.ie/2010/06/haiku-open-source-beos-clone</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/06/haiku-open-source-beos-clone.html"/>
     <title>Haiku: Open Source BeOS clone</title>
-    <updated>2010-06-06T00:00:00+01:00</updated>
+    <updated>2010-06-06T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2349,7 +2349,7 @@ Haiku a try!
     <id>http://neil.grogan.ie/2010/05/webm-promises-open-web-video</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/05/webm-promises-open-web-video.html"/>
     <title>WebM promises Open Web Video</title>
-    <updated>2010-05-30T00:00:00+01:00</updated>
+    <updated>2010-05-30T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2380,7 +2380,7 @@ browsers with WebM support are below:&amp;lt;&lt;/p&gt;
     <id>http://neil.grogan.ie/2010/05/honda-bros-motorcycle</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/05/honda-bros-motorcycle.html"/>
     <title>Honda Bros Motorcycle</title>
-    <updated>2010-05-24T00:00:00+01:00</updated>
+    <updated>2010-05-24T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2473,7 +2473,7 @@ Specifications&lt;/a&gt;
     <id>http://neil.grogan.ie/2010/05/bit-of-bau</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/05/bit-of-bau.html"/>
     <title>A Bit of Bau</title>
-    <updated>2010-05-03T00:00:00+01:00</updated>
+    <updated>2010-05-03T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2497,7 +2497,7 @@ Also noticed &lt;a href=&quot;http://bark4mark.com/2010/04/3d-graphics-project-2
     <id>http://neil.grogan.ie/2010/04/donating-to-charity</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/04/donating-to-charity.html"/>
     <title>Donating to Charity</title>
-    <updated>2010-04-01T00:00:00+01:00</updated>
+    <updated>2010-04-01T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2563,7 +2563,7 @@ seek to waste the money you have donated.
     <id>http://neil.grogan.ie/2010/03/computer-graphics-bauhaus-chess-design</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/03/computer-graphics-bauhaus-chess-design.html"/>
     <title>Computer Graphics: Bauhaus Chess Design</title>
-    <updated>2010-03-17T00:00:00+00:00</updated>
+    <updated>2010-03-17T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2601,7 +2601,7 @@ commercial license (see copyright of the blog).
     <id>http://neil.grogan.ie/2010/03/interview-being-woman-in-computer</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/03/interview-being-woman-in-computer.html"/>
     <title>Interview - Being a Woman in Computer Science</title>
-    <updated>2010-03-09T00:00:00+00:00</updated>
+    <updated>2010-03-09T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2730,7 +2730,7 @@ they&amp;#8217;re weight who really cares about gender.
     <id>http://neil.grogan.ie/2010/01/technology-new-years-resolutions</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/01/technology-new-years-resolutions.html"/>
     <title>Technology New Years Resolutions</title>
-    <updated>2010-01-04T00:00:00+00:00</updated>
+    <updated>2010-01-04T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2783,7 +2783,7 @@ Happy 2010!&lt;/p&gt;
     <id>http://neil.grogan.ie/2010/01/dogs-chew-things</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2010/01/dogs-chew-things.html"/>
     <title>Dogs chew things?</title>
-    <updated>2010-01-03T00:00:00+00:00</updated>
+    <updated>2010-01-03T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2810,7 +2810,7 @@ I can find almost any other part for my Yamaha YP125 other than a seat, grrrr&lt
     <id>http://neil.grogan.ie/2009/12/years-10m-8km-makes-world-biggest</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/12/years-10m-8km-makes-world-biggest.html"/>
     <title>9 years, &amp;#8364;10m and 8KM makes the world's biggest train set</title>
-    <updated>2009-12-13T00:00:00+00:00</updated>
+    <updated>2009-12-13T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2823,7 +2823,7 @@ I can find almost any other part for my Yamaha YP125 other than a seat, grrrr&lt
     <id>http://neil.grogan.ie/2009/12/best-kdelinux</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/12/best-kdelinux.html"/>
     <title>Best KDE/Linux?</title>
-    <updated>2009-12-12T00:00:00+00:00</updated>
+    <updated>2009-12-12T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2844,7 +2844,7 @@ useful online tools&amp;#8230;&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/12/why-should-i-care-what-color-bikeshed</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/12/why-should-i-care-what-color-bikeshed.html"/>
     <title>Why Should I Care What Color the Bikeshed Is?</title>
-    <updated>2009-12-07T00:00:00+00:00</updated>
+    <updated>2009-12-07T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2868,7 +2868,7 @@ the complexity of the change.&amp;#8221;&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/12/pulp-fiction-theme</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/12/pulp-fiction-theme.html"/>
     <title>Pulp Fiction theme</title>
-    <updated>2009-12-04T00:00:00+00:00</updated>
+    <updated>2009-12-04T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2883,7 +2883,7 @@ the complexity of the change.&amp;#8221;&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/12/cheesy-intel-ad</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/12/cheesy-intel-ad.html"/>
     <title>Cheesy Intel Ad</title>
-    <updated>2009-12-02T00:00:00+00:00</updated>
+    <updated>2009-12-02T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2897,7 +2897,7 @@ the complexity of the change.&amp;#8221;&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/12/yamaha-majesty-400c-review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/12/yamaha-majesty-400c-review.html"/>
     <title>Yamaha Majesty 400c Review</title>
-    <updated>2009-12-01T00:00:00+00:00</updated>
+    <updated>2009-12-01T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2927,7 +2927,7 @@ it&amp;#8217;s braun but rather it&amp;#8217;s brains with good safety and road 
     <id>http://neil.grogan.ie/2009/11/sony-subsidises-supercomputers-for-us</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/11/sony-subsidises-supercomputers-for-us.html"/>
     <title>Sony Subsidises Supercomputers for the US Military?</title>
-    <updated>2009-11-30T00:00:00+00:00</updated>
+    <updated>2009-11-30T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -2957,7 +2957,7 @@ here&lt;/a&gt;.
     <id>http://neil.grogan.ie/2009/11/nuclear-power-debates-why-not-in</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/11/nuclear-power-debates-why-not-in.html"/>
     <title>Nuclear Power Debates... why not in Ireland?</title>
-    <updated>2009-11-28T00:00:00+00:00</updated>
+    <updated>2009-11-28T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3107,7 +3107,7 @@ debate going - as it&amp;#8217;s our energy future and money.
     <id>http://neil.grogan.ie/2009/11/fans</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/11/fans.html"/>
     <title>Interesting Video for Windows 7 fans</title>
-    <updated>2009-11-28T00:00:00+00:00</updated>
+    <updated>2009-11-28T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3125,7 +3125,7 @@ load more legacy stuff etc. so it is useful for some metrics:&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/11/is-mac-pro-overpriced</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/11/is-mac-pro-overpriced.html"/>
     <title>Is a Mac Pro overpriced?</title>
-    <updated>2009-11-24T00:00:00+00:00</updated>
+    <updated>2009-11-24T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3152,7 +3152,7 @@ with more money than sense. Who said the don&amp;#8217;t cater to all markets!?!
     <id>http://neil.grogan.ie/2009/04/3g-coverage-in-ireland</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/04/3g-coverage-in-ireland.html"/>
     <title>3G Coverage in Ireland</title>
-    <updated>2009-04-20T00:00:00+01:00</updated>
+    <updated>2009-04-20T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3199,7 +3199,7 @@ old adage goes: sometimes you get what you pay for&amp;#8230;
     <id>http://neil.grogan.ie/2009/04/iphone-3g-review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/04/iphone-3g-review.html"/>
     <title>iPhone 3G Review</title>
-    <updated>2009-04-09T00:00:00+01:00</updated>
+    <updated>2009-04-09T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3397,7 +3397,7 @@ expect this and 4G (WiMax?) will appear in later models..
     <id>http://neil.grogan.ie/2009/03/eircom-responds</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/03/eircom-responds.html"/>
     <title>Eircom Responds...</title>
-    <updated>2009-03-26T00:00:00+00:00</updated>
+    <updated>2009-03-26T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3453,7 +3453,7 @@ Head of eircom Customer Care&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/03/this-post-is-censored-by-irma</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/03/this-post-is-censored-by-irma.html"/>
     <title>This post is censored by IRMA</title>
-    <updated>2009-03-07T00:00:00+00:00</updated>
+    <updated>2009-03-07T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3550,7 +3550,7 @@ Irish and/or in Ireland: please visit:
     <id>http://neil.grogan.ie/2009/03/love-letter-to-irmas-solicitor</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/03/love-letter-to-irmas-solicitor.html"/>
     <title>Love letter to IRMA's Solicitor</title>
-    <updated>2009-03-07T00:00:00+00:00</updated>
+    <updated>2009-03-07T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3619,7 +3619,7 @@ if you don&amp;#8217;t wish it so; don&amp;#8217;t respond.&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/01/linux-desktop-environments</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/01/linux-desktop-environments.html"/>
     <title>Linux Desktop Environments?</title>
-    <updated>2009-01-26T00:00:00+00:00</updated>
+    <updated>2009-01-26T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3747,7 +3747,7 @@ for those interested.&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/01/ubuntu-in-four-years</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/01/ubuntu-in-four-years.html"/>
     <title>Ubuntu in four years</title>
-    <updated>2009-01-21T00:00:00+00:00</updated>
+    <updated>2009-01-21T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3803,7 +3803,7 @@ fitting to see the latest version:&lt;/p&gt;
     <id>http://neil.grogan.ie/2009/01/beta-2</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2009/01/beta-2.html"/>
     <title>KDE 4.2 Beta 2</title>
-    <updated>2009-01-04T00:00:00+00:00</updated>
+    <updated>2009-01-04T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3896,7 +3896,7 @@ its hot!!  &lt;/p&gt;
     <id>http://neil.grogan.ie/2008/12/firefox-and-opera-lead-web-video-way</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/12/firefox-and-opera-lead-web-video-way.html"/>
     <title>Firefox and Opera lead the web video way</title>
-    <updated>2008-12-09T00:00:00+00:00</updated>
+    <updated>2008-12-09T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -3943,7 +3943,7 @@ Theora decoder not found
     <id>http://neil.grogan.ie/2008/11/profiling-firefox-extensions-i-have</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/profiling-firefox-extensions-i-have.html"/>
     <title>Profiling Firefox Extensions I have installed</title>
-    <updated>2008-11-29T00:00:00+00:00</updated>
+    <updated>2008-11-29T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4016,7 +4016,7 @@ options for the tinkerers among us are quite good also&amp;#8230;.
     <id>http://neil.grogan.ie/2008/11/research-proves-video-games-lack-harm</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/research-proves-video-games-lack-harm.html"/>
     <title>Research proves video games lack harm</title>
-    <updated>2008-11-27T00:00:00+00:00</updated>
+    <updated>2008-11-27T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4093,7 +4093,7 @@ News&lt;/a&gt;&lt;/p&gt;
     <id>http://neil.grogan.ie/2008/11/how-led-was-born</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/how-led-was-born.html"/>
     <title>How the LED was born....</title>
-    <updated>2008-11-23T00:00:00+00:00</updated>
+    <updated>2008-11-23T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4106,7 +4106,7 @@ News&lt;/a&gt;&lt;/p&gt;
     <id>http://neil.grogan.ie/2008/11/ssh-guide</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/ssh-guide.html"/>
     <title>SSH Guide</title>
-    <updated>2008-11-17T00:00:00+00:00</updated>
+    <updated>2008-11-17T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4217,7 +4217,7 @@ break; and there is no &amp;#8216;known&amp;#8217; way to break it&amp;#8230;.
     <id>http://neil.grogan.ie/2008/11/web-multimedia-project-1</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/web-multimedia-project-1.html"/>
     <title>Web Multimedia Project 1</title>
-    <updated>2008-11-16T00:00:00+00:00</updated>
+    <updated>2008-11-16T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4239,7 +4239,7 @@ Here it is:&lt;br /&gt;
     <id>http://neil.grogan.ie/2008/11/gmail-video-chat</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/gmail-video-chat.html"/>
     <title>Gmail Video Chat</title>
-    <updated>2008-11-13T00:00:00+00:00</updated>
+    <updated>2008-11-13T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4293,7 +4293,7 @@ company itself. Get working on it &lt;a href=&quot;http://www.google.ie/&quot;&g
     <id>http://neil.grogan.ie/2008/11/innovation-right-here-dept-of-education</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/11/innovation-right-here-dept-of-education.html"/>
     <title>Innovation Right Here - Dept. of Education is Wrong</title>
-    <updated>2008-11-12T00:00:00+00:00</updated>
+    <updated>2008-11-12T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4359,7 +4359,7 @@ Keefe&lt;/a&gt; and his 20th century
     <id>http://neil.grogan.ie/2008/10/domo-arigato-mr-roboto</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/10/domo-arigato-mr-roboto.html"/>
     <title>Domo Arigato, Mr.Roboto</title>
-    <updated>2008-10-25T00:00:00+01:00</updated>
+    <updated>2008-10-25T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4383,7 +4383,7 @@ I&amp;#8217;ll just post the free video so y&amp;#8217;all can watch&amp;#8230;.
     <id>http://neil.grogan.ie/2008/10/hurling-four-in-row</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/10/hurling-four-in-row.html"/>
     <title>Hurling - Four in a row?</title>
-    <updated>2008-10-19T00:00:00+01:00</updated>
+    <updated>2008-10-19T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4422,7 +4422,7 @@ mental about Hurling:&lt;/p&gt;
     <id>http://neil.grogan.ie/2008/09/geek-thug-i-had-to-beat-up-girl</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/09/geek-thug-i-had-to-beat-up-girl.html"/>
     <title>Geek Thug - "I Had to Beat Up a Girl"</title>
-    <updated>2008-09-25T00:00:00+01:00</updated>
+    <updated>2008-09-25T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4443,7 +4443,7 @@ beat up a Girl. Weird stuff!&lt;br /&gt;
     <id>http://neil.grogan.ie/2008/09/yamaha-yq-aerox-best-moped-ever</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/09/yamaha-yq-aerox-best-moped-ever.html"/>
     <title>Yamaha YQ Aerox - best moped ever?</title>
-    <updated>2008-09-17T00:00:00+01:00</updated>
+    <updated>2008-09-17T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4476,7 +4476,7 @@ allot better and drives better than ever!  &lt;/p&gt;
     <id>http://neil.grogan.ie/2008/09/wordpress-26</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/09/wordpress-26.html"/>
     <title>Wordpress 2.6</title>
-    <updated>2008-09-10T00:00:00+01:00</updated>
+    <updated>2008-09-10T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4490,7 +4490,7 @@ allot better and drives better than ever!  &lt;/p&gt;
     <id>http://neil.grogan.ie/2008/06/summer-one-month-on</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/06/summer-one-month-on.html"/>
     <title>Summer - One Month On.....</title>
-    <updated>2008-06-29T00:00:00+01:00</updated>
+    <updated>2008-06-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4528,7 +4528,7 @@ few picture posts dedicated to the bike!!
     <id>http://neil.grogan.ie/2008/05/ive-decided-im-decidedly-middle-class</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/05/ive-decided-im-decidedly-middle-class.html"/>
     <title>I've decided - I'm decidedly middle class</title>
-    <updated>2008-05-14T00:00:00+01:00</updated>
+    <updated>2008-05-14T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4580,7 +4580,7 @@ stigmata?
     <id>http://neil.grogan.ie/2008/04/will-google-buy-skype</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/04/will-google-buy-skype.html"/>
     <title>Will Google Buy Skype?</title>
-    <updated>2008-04-09T00:00:00+01:00</updated>
+    <updated>2008-04-09T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4625,7 +4625,7 @@ transaction could go quite well for both parties&amp;#8230;
     <id>http://neil.grogan.ie/2008/02/year</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/02/year.html"/>
     <title>Letter to EU Commissioner on 95 Year Copyright Extension [Updated]</title>
-    <updated>2008-02-16T00:00:00+00:00</updated>
+    <updated>2008-02-16T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4764,7 +4764,7 @@ proposal.&lt;/p&gt;
     <id>http://neil.grogan.ie/2008/02/why-i-think-amarock-rocks</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/02/why-i-think-amarock-rocks.html"/>
     <title>Why I think Amarok rocks....</title>
-    <updated>2008-02-14T00:00:00+00:00</updated>
+    <updated>2008-02-14T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4837,7 +4837,7 @@ eventually!&lt;/a&gt;)
     <id>http://neil.grogan.ie/2008/01/few-days-with-nokia-n810</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2008/01/few-days-with-nokia-n810.html"/>
     <title>A few days with A Nokia N810</title>
-    <updated>2008-01-13T00:00:00+00:00</updated>
+    <updated>2008-01-13T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4918,7 +4918,7 @@ inbuild 3G or Wimax.   &lt;/p&gt;
     <id>http://neil.grogan.ie/2007/10/tablet-to-hit-shops-soon</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/10/tablet-to-hit-shops-soon.html"/>
     <title>Nokia N810 Tablet to hit the shops soon...</title>
-    <updated>2007-10-21T00:00:00+01:00</updated>
+    <updated>2007-10-21T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -4956,7 +4956,7 @@ Apples iPhone.
     <id>http://neil.grogan.ie/2007/10/apple-mac-os-x-most-popular-desktop</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/10/apple-mac-os-x-most-popular-desktop.html"/>
     <title>Apple Mac OS X: the most popular Desktop Unix?</title>
-    <updated>2007-10-21T00:00:00+01:00</updated>
+    <updated>2007-10-21T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5013,7 +5013,7 @@ popular geek news site: &lt;a href=&quot;http://www.slashdot.org/&quot;&gt;Slash
     <id>http://neil.grogan.ie/2007/10/linux-and-patents-just-patently-wrong</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/10/linux-and-patents-just-patently-wrong.html"/>
     <title>Linux and Patents: Just Patently Wrong</title>
-    <updated>2007-10-12T00:00:00+01:00</updated>
+    <updated>2007-10-12T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5083,7 +5083,7 @@ right? Wrong, wrong and now I think it is time we make YOU pay&amp;#8230;..
     <id>http://neil.grogan.ie/2007/10/planning-computer-build</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/10/planning-computer-build.html"/>
     <title>Planning the Computer Build</title>
-    <updated>2007-10-09T00:00:00+01:00</updated>
+    <updated>2007-10-09T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5124,7 +5124,7 @@ under CC-BY-NC-SA. Here is a screenshot of it:&lt;/p&gt;
     <id>http://neil.grogan.ie/2007/09/computer-systems-dismantling-pcs-is-fun</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/09/computer-systems-dismantling-pcs-is-fun.html"/>
     <title>Computer Systems - Dismantling PC's is fun!</title>
-    <updated>2007-09-27T00:00:00+01:00</updated>
+    <updated>2007-09-27T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5158,7 +5158,7 @@ photos below to show the inside internals:&lt;/p&gt;
     <id>http://neil.grogan.ie/2007/09/apple-play-nice</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/09/apple-play-nice.html"/>
     <title>Apple - Play Nice....</title>
-    <updated>2007-09-15T00:00:00+01:00</updated>
+    <updated>2007-09-15T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5210,7 +5210,7 @@ of which Open source is a key factor in OS X.
     <id>http://neil.grogan.ie/2007/09/comp-sci-interview-with-stanfords</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/09/comp-sci-interview-with-stanfords.html"/>
     <title>Comp Sci - An Interview with Stanford's Undegraduate Professor</title>
-    <updated>2007-09-07T00:00:00+01:00</updated>
+    <updated>2007-09-07T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5233,7 +5233,7 @@ interview&lt;/a&gt;.
     <id>http://neil.grogan.ie/2007/09/review-of-official-ubuntu-book-second</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/09/review-of-official-ubuntu-book-second.html"/>
     <title>Review of the Official Ubuntu Book, Second Edition (2007)</title>
-    <updated>2007-09-04T00:00:00+01:00</updated>
+    <updated>2007-09-04T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5296,7 +5296,7 @@ I also bought it to support Ubuntu financially.  &lt;/p&gt;
     <id>http://neil.grogan.ie/2007/09/institute-of-technology-blanchardstown</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/09/institute-of-technology-blanchardstown.html"/>
     <title>Institute of Technology, Blanchardstown</title>
-    <updated>2007-09-01T00:00:00+01:00</updated>
+    <updated>2007-09-01T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5328,7 +5328,7 @@ Map&lt;/a&gt;
     <id>http://neil.grogan.ie/2007/08/microsoft-settles-with-eolas-over</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/08/microsoft-settles-with-eolas-over.html"/>
     <title>Microsoft settles with Eolas over Internet Explorer</title>
-    <updated>2007-08-31T00:00:00+01:00</updated>
+    <updated>2007-08-31T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5364,7 +5364,7 @@ mind.&lt;br /&gt;
     <id>http://neil.grogan.ie/2007/08/gutsy-coming-along-update-to-dell</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/08/gutsy-coming-along-update-to-dell.html"/>
     <title>Gutsy coming along, Update to Dell Windows Refund..</title>
-    <updated>2007-08-29T00:00:00+01:00</updated>
+    <updated>2007-08-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5415,7 +5415,7 @@ I&amp;#8217;d get more, but alas that&amp;#8217;s life&amp;#8230;..
     <id>http://neil.grogan.ie/2007/08/dell-refunds-me-for-windows</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/08/dell-refunds-me-for-windows.html"/>
     <title>Dell refunds me for Windows!</title>
-    <updated>2007-08-21T00:00:00+01:00</updated>
+    <updated>2007-08-21T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5476,7 +5476,7 @@ machines in Ireland, I&amp;#8217;ll buy another!!
     <id>http://neil.grogan.ie/2007/08/have-you-got-viruses-or-spyware-heres</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/08/have-you-got-viruses-or-spyware-heres.html"/>
     <title>Have you got viruses or spyware? Here's my tips!</title>
-    <updated>2007-08-16T00:00:00+01:00</updated>
+    <updated>2007-08-16T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5528,7 +5528,7 @@ of TLC!
     <id>http://neil.grogan.ie/2007/08/seven-financial-reasons-not-to-use</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/08/seven-financial-reasons-not-to-use.html"/>
     <title>Seven financial reasons not to use Windows</title>
-    <updated>2007-08-06T00:00:00+01:00</updated>
+    <updated>2007-08-06T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5608,7 +5608,7 @@ reading this, especially if your are a &amp;#8220;Microsoft-Only&amp;#8221; shop
     <id>http://neil.grogan.ie/2007/07/hp-to-follow-dell-into-open-source</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/07/hp-to-follow-dell-into-open-source.html"/>
     <title>HP to Follow Dell into Open Source? and Ubuntu Home Server</title>
-    <updated>2007-07-08T00:00:00+01:00</updated>
+    <updated>2007-07-08T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5659,7 +5659,7 @@ mentioned.
     <id>http://neil.grogan.ie/2007/07/windows-vista-security-better-than</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/07/windows-vista-security-better-than.html"/>
     <title>Windows Vista Security - Better than Linux?</title>
-    <updated>2007-07-03T00:00:00+01:00</updated>
+    <updated>2007-07-03T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5719,7 +5719,7 @@ him not understanding it&amp;#8221;, which I think affects Mr. Jeff Jones.
     <id>http://neil.grogan.ie/2007/06/threats-to-democracy</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/06/threats-to-democracy.html"/>
     <title>Threats to Democracy</title>
-    <updated>2007-06-26T00:00:00+01:00</updated>
+    <updated>2007-06-26T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5772,7 +5772,7 @@ freedom of faith, democracy etc.  &lt;/p&gt;
     <id>http://neil.grogan.ie/2007/06/leopard-worth-wait</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/06/leopard-worth-wait.html"/>
     <title>Leopard - Worth the wait?</title>
-    <updated>2007-06-16T00:00:00+01:00</updated>
+    <updated>2007-06-16T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -5924,7 +5924,7 @@ computer purchase.
     <id>http://neil.grogan.ie/2007/06/review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/06/review.html"/>
     <title>HP Photosmart R927 Review</title>
-    <updated>2007-06-14T00:00:00+01:00</updated>
+    <updated>2007-06-14T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6036,7 +6036,7 @@ update this if I ever have any problems with it!&lt;/p&gt;
     <id>http://neil.grogan.ie/2007/05/bill-gates-lists-vista</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/05/bill-gates-lists-vista.html"/>
     <title>Bill Gates lists Vista 'innovations'</title>
-    <updated>2007-05-29T00:00:00+01:00</updated>
+    <updated>2007-05-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6059,7 +6059,7 @@ and greatest trends in the industry.
     <id>http://neil.grogan.ie/2007/05/dell-sells-ubuntu-704</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/05/dell-sells-ubuntu-704.html"/>
     <title>Dell Sells Ubuntu 7.04</title>
-    <updated>2007-05-26T00:00:00+01:00</updated>
+    <updated>2007-05-26T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6098,7 +6098,7 @@ software desktop. Dell list advantages in one of their videos:&lt;br /&gt;
     <id>http://neil.grogan.ie/2007/05/update-on-rte-and-creative-commons</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/05/update-on-rte-and-creative-commons.html"/>
     <title>Update on RTE and the Creative Commons</title>
-    <updated>2007-05-17T00:00:00+01:00</updated>
+    <updated>2007-05-17T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6130,7 +6130,7 @@ who voted!
     <id>http://neil.grogan.ie/2007/05/kerataconus-me</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/05/kerataconus-me.html"/>
     <title>Kerataconus and Me</title>
-    <updated>2007-05-06T00:00:00+01:00</updated>
+    <updated>2007-05-06T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6176,7 +6176,7 @@ found out I had it:
     <id>http://neil.grogan.ie/2007/05/irish-elections-creative-commons</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/05/irish-elections-creative-commons.html"/>
     <title>Irish Elections and Creative Commons</title>
-    <updated>2007-05-06T00:00:00+01:00</updated>
+    <updated>2007-05-06T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6210,7 +6210,7 @@ its lead and extend to other programs:&lt;br /&gt;
     <id>http://neil.grogan.ie/2007/04/ultimate-games-disc</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/04/ultimate-games-disc.html"/>
     <title>Ultimate Games Disc</title>
-    <updated>2007-04-16T00:00:00+01:00</updated>
+    <updated>2007-04-16T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6248,7 +6248,7 @@ open source gaming!&lt;/p&gt;
     <id>http://neil.grogan.ie/2007/04/apple-emi-deal-thank-eu</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/04/apple-emi-deal-thank-eu.html"/>
     <title>Apple / EMI Deal - Thank the EU?</title>
-    <updated>2007-04-04T00:00:00+01:00</updated>
+    <updated>2007-04-04T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6288,7 +6288,7 @@ like transatlantic air travel, it could literally &amp;#8216;open up the skies&a
     <id>http://neil.grogan.ie/2007/04/applications-of-2007</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/04/applications-of-2007.html"/>
     <title>My Top 10 Applications of 2007</title>
-    <updated>2007-04-01T00:00:00+01:00</updated>
+    <updated>2007-04-01T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6409,7 +6409,7 @@ and other interesting stuff alot of people ask me questions about.
     <id>http://neil.grogan.ie/2007/03/mac-ipod-video-tutorial</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/03/mac-ipod-video-tutorial.html"/>
     <title>Mac iPod Video Tutorial</title>
-    <updated>2007-03-11T00:00:00+00:00</updated>
+    <updated>2007-03-11T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6438,7 +6438,7 @@ to Youtube, which I think for a first try ain&amp;#8217;t bad!! Watch it here:  
     <id>http://neil.grogan.ie/2007/03/tor-helps-privacy</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/03/tor-helps-privacy.html"/>
     <title>Tor helps Privacy</title>
-    <updated>2007-03-10T00:00:00+00:00</updated>
+    <updated>2007-03-10T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6479,7 +6479,7 @@ here: &lt;a href=&quot;http://tor.eff.org/download.html.en&quot; title=&quot;TOR
     <id>http://neil.grogan.ie/2007/03/open-sourcing-your-cv</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/03/open-sourcing-your-cv.html"/>
     <title>Open Sourcing your CV</title>
-    <updated>2007-03-01T00:00:00+00:00</updated>
+    <updated>2007-03-01T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6511,7 +6511,7 @@ See Red Hats intriguing &amp;#8220;Truth Happens&amp;#8221; advert:  &lt;/p&gt;
     <id>http://neil.grogan.ie/2007/02/uk-parliamentary-debate-is-not-pension</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/02/uk-parliamentary-debate-is-not-pension.html"/>
     <title>UK Parliamentary debate "Copyright is not a pension fund"</title>
-    <updated>2007-02-17T00:00:00+00:00</updated>
+    <updated>2007-02-17T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6561,7 +6561,7 @@ technologists being record bosses!
     <id>http://neil.grogan.ie/2007/02/updates-and-new-look</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/02/updates-and-new-look.html"/>
     <title>Updates and New look</title>
-    <updated>2007-02-14T00:00:00+00:00</updated>
+    <updated>2007-02-14T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6607,7 +6607,7 @@ credits due, hopefully when I see good things I&amp;#8217;ll write about it!
     <id>http://neil.grogan.ie/2007/02/review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/02/review.html"/>
     <title>Nokia N800 Review</title>
-    <updated>2007-02-11T00:00:00+00:00</updated>
+    <updated>2007-02-11T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6722,7 +6722,7 @@ Gnome&lt;/a&gt;.
     <id>http://neil.grogan.ie/2007/02/vista-is-released-ubuntu-gets-exe</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/02/vista-is-released-ubuntu-gets-exe.html"/>
     <title>Vista is released; Ubuntu gets .exe!</title>
-    <updated>2007-02-02T00:00:00+00:00</updated>
+    <updated>2007-02-02T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6768,7 +6768,7 @@ etc. we have all come to accept on the windows platform, but why?
     <id>http://neil.grogan.ie/2007/01/my-plan-to-digitise-my-past-for-future</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/01/my-plan-to-digitise-my-past-for-future.html"/>
     <title>My Plan to Digitise my past, for the future</title>
-    <updated>2007-01-30T00:00:00+00:00</updated>
+    <updated>2007-01-30T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6807,7 +6807,7 @@ document I have in a digital format sometime in the near future.
     <id>http://neil.grogan.ie/2007/01/bbc-to-host-multi-os-debate-my-first</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/01/bbc-to-host-multi-os-debate-my-first.html"/>
     <title>BBC to host Multi-OS Debate and My First Web Auction</title>
-    <updated>2007-01-25T00:00:00+00:00</updated>
+    <updated>2007-01-25T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6843,7 +6843,7 @@ Auction&quot; title=&quot;Nokia 770 Ebay Auction&quot; /&gt;
     <id>http://neil.grogan.ie/2007/01/get-facts-about-get-facts</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/01/get-facts-about-get-facts.html"/>
     <title>Get the facts, about "Get the Facts"</title>
-    <updated>2007-01-21T00:00:00+00:00</updated>
+    <updated>2007-01-21T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6878,7 +6878,7 @@ properly.
     <id>http://neil.grogan.ie/2007/01/engineering-drawing</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2007/01/engineering-drawing.html"/>
     <title>Engineering Drawing</title>
-    <updated>2007-01-14T00:00:00+00:00</updated>
+    <updated>2007-01-14T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6910,7 +6910,7 @@ Imageshack&quot; title=&quot;Engineering Project (c) Neil Grogan. Kindly Hosted 
     <id>http://neil.grogan.ie/2006/12/new-widget-for-our-rss-feed</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/12/new-widget-for-our-rss-feed.html"/>
     <title>New Widget for our RSS feed!</title>
-    <updated>2006-12-31T00:00:00+00:00</updated>
+    <updated>2006-12-31T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6932,7 +6932,7 @@ now&lt;/a&gt;!
     <id>http://neil.grogan.ie/2006/12/video-ipod-and-freespire</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/12/video-ipod-and-freespire.html"/>
     <title>Video iPod and Freespire</title>
-    <updated>2006-12-30T00:00:00+00:00</updated>
+    <updated>2006-12-30T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -6983,7 +6983,7 @@ wins over the Windows fans!
     <id>http://neil.grogan.ie/2006/12/free-domain-name-off-aol-too-good-to-be</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/12/free-domain-name-off-aol-too-good-to-be.html"/>
     <title>Free Domain name off AOL, too good to be true?</title>
-    <updated>2006-12-19T00:00:00+00:00</updated>
+    <updated>2006-12-19T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7024,7 +7024,7 @@ yet to try it out&amp;#8230;&amp;#8230;
     <id>http://neil.grogan.ie/2006/12/irish-blog-awards</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/12/irish-blog-awards.html"/>
     <title>Irish Blog Awards</title>
-    <updated>2006-12-13T00:00:00+00:00</updated>
+    <updated>2006-12-13T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7073,7 +7073,7 @@ really!&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/12/video-test</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/12/video-test.html"/>
     <title>Nokia 6234 Video Test</title>
-    <updated>2006-12-10T00:00:00+00:00</updated>
+    <updated>2006-12-10T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7099,7 +7099,7 @@ mini memory card, for some quick music on the go!
     <id>http://neil.grogan.ie/2006/12/home-made-server</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/12/home-made-server.html"/>
     <title>Home made server...</title>
-    <updated>2006-12-05T00:00:00+00:00</updated>
+    <updated>2006-12-05T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7137,7 +7137,7 @@ write it chugs away gleefully (for now&amp;#8230;&amp;#8230;&amp;#8230;)
     <id>http://neil.grogan.ie/2006/11/iedr-too-stringent-sorry-about-my-email</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/11/iedr-too-stringent-sorry-about-my-email.html"/>
     <title>IEDR too stringent? Sorry about my email!</title>
-    <updated>2006-11-19T00:00:00+00:00</updated>
+    <updated>2006-11-19T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7181,7 +7181,7 @@ with my DNS settings. It should be all fixed now!  &lt;/p&gt;
     <id>http://neil.grogan.ie/2006/11/wiki-goes-live-downtime-and-macbook</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/11/wiki-goes-live-downtime-and-macbook.html"/>
     <title>Wiki goes live, downtime and Macbook Back!</title>
-    <updated>2006-11-12T00:00:00+00:00</updated>
+    <updated>2006-11-12T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7235,7 +7235,7 @@ Writing this post from it now by the way&amp;#8230;&amp;#8230;.
     <id>http://neil.grogan.ie/2006/11/broken-macbook-update-part-ii</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/11/broken-macbook-update-part-ii.html"/>
     <title>Broken Macbook Update Part II</title>
-    <updated>2006-11-03T00:00:00+00:00</updated>
+    <updated>2006-11-03T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7268,7 +7268,7 @@ new heatsink and logic board&amp;#8230;. fingers crossed anyway!
     <id>http://neil.grogan.ie/2006/11/macbook-issue-identified</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/11/macbook-issue-identified.html"/>
     <title>Macbook Issue Identified</title>
-    <updated>2006-11-01T00:00:00+00:00</updated>
+    <updated>2006-11-01T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7298,7 +7298,7 @@ to add them as a category.
     <id>http://neil.grogan.ie/2006/10/internet-explorer-thanks-firefox</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/10/internet-explorer-thanks-firefox.html"/>
     <title>Internet Explorer thanks Firefox, sincerely?</title>
-    <updated>2006-10-26T00:00:00+01:00</updated>
+    <updated>2006-10-26T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7335,7 +7335,7 @@ whatever platform!), Opera, Safari, Konqueror and the rest!
     <id>http://neil.grogan.ie/2006/10/blog-updates-calendar-updates-broken</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/10/blog-updates-calendar-updates-broken.html"/>
     <title>Blog Updates, Calendar Updates, broken Macbook</title>
-    <updated>2006-10-25T00:00:00+01:00</updated>
+    <updated>2006-10-25T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7390,7 +7390,7 @@ have been affected by this, luckily it was still filtered by
     <id>http://neil.grogan.ie/2006/10/best-bush-satire-ever</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/10/best-bush-satire-ever.html"/>
     <title>Best Bush Satire, Ever.</title>
-    <updated>2006-10-18T00:00:00+01:00</updated>
+    <updated>2006-10-18T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7411,7 +7411,7 @@ nifty than that awful Iframe calendar I had before!
     <id>http://neil.grogan.ie/2006/10/google-buy-youtube-gtalk-for-everyone</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/10/google-buy-youtube-gtalk-for-everyone.html"/>
     <title>Google buy YouTube, GTalk for everyone and Blogger Bliss</title>
-    <updated>2006-10-10T00:00:00+01:00</updated>
+    <updated>2006-10-10T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7454,7 +7454,7 @@ post more often and soon&amp;#8230;&amp;#8230;&amp;#8230;&amp;#8230;..
     <id>http://neil.grogan.ie/2006/08/macbook-update-fonero-haven-commercial</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/08/macbook-update-fonero-haven-commercial.html"/>
     <title>Macbook Update, Fonero Haven, Commercial Darknet and College!</title>
-    <updated>2006-08-16T00:00:00+01:00</updated>
+    <updated>2006-08-16T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7515,7 +7515,7 @@ too hard to achieve!
     <id>http://neil.grogan.ie/2006/08/feel-i-need-to-confess-why-i-am-buying</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/08/feel-i-need-to-confess-why-i-am-buying.html"/>
     <title>Why I am getting an Apple MacBook</title>
-    <updated>2006-08-12T00:00:00+01:00</updated>
+    <updated>2006-08-12T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7578,7 +7578,7 @@ iPod!&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/08/law-and-interweb</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/08/law-and-interweb.html"/>
     <title>Law and the Interweb</title>
-    <updated>2006-08-02T00:00:00+01:00</updated>
+    <updated>2006-08-02T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7627,7 +7627,7 @@ should be standard practice! /endrant&lt;em&gt;**&lt;/em&gt;  &lt;/p&gt;
     <id>http://neil.grogan.ie/2006/07/new-design-ranking-gmail-hosted-os-2006</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/07/new-design-ranking-gmail-hosted-os-2006.html"/>
     <title>New Design, Ranking, Gmail Hosted, OS 2006 Finale and YouOS</title>
-    <updated>2006-07-12T00:00:00+01:00</updated>
+    <updated>2006-07-12T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7674,7 +7674,7 @@ you have time!&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/07/my-letter-to-us-dept-of-commerce-re</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/07/my-letter-to-us-dept-of-commerce-re.html"/>
     <title>My Letter to U.S. Dept of Commerce, RE: The Future of the Internet</title>
-    <updated>2006-07-03T00:00:00+01:00</updated>
+    <updated>2006-07-03T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7717,7 +7717,7 @@ Neil Grogan
     <id>http://neil.grogan.ie/2006/06/questions-hosting-and-it-2006</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/06/questions-hosting-and-it-2006.html"/>
     <title>Questions, Hosting and IT 2006!</title>
-    <updated>2006-06-23T00:00:00+01:00</updated>
+    <updated>2006-06-23T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7771,7 +7771,7 @@ is, a truly cool Internet tool.
     <id>http://neil.grogan.ie/2006/06/fon-new-job-and-commuting</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/06/fon-new-job-and-commuting.html"/>
     <title>FON, New Job and Commuting!</title>
-    <updated>2006-06-04T00:00:00+01:00</updated>
+    <updated>2006-06-04T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7819,7 +7819,7 @@ baffles me the most, and it could make a huge difference, one ticket! &lt;br /&g
     <id>http://neil.grogan.ie/2006/05/nuclear-or-nothing</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/05/nuclear-or-nothing.html"/>
     <title>Nuclear or Nothing?</title>
-    <updated>2006-05-11T00:00:00+01:00</updated>
+    <updated>2006-05-11T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7874,7 +7874,7 @@ renewab&lt;/a&gt;
     <id>http://neil.grogan.ie/2006/05/best-radio-podcasts</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/05/best-radio-podcasts.html"/>
     <title>Best Radio Podcasts</title>
-    <updated>2006-05-02T00:00:00+01:00</updated>
+    <updated>2006-05-02T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7930,7 +7930,7 @@ continually, so more to listen to every day!&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/04/spam-will-it-ever-stop</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/04/spam-will-it-ever-stop.html"/>
     <title>Spam, will it ever stop?</title>
-    <updated>2006-04-29T00:00:00+01:00</updated>
+    <updated>2006-04-29T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -7965,7 +7965,7 @@ message!
     <id>http://neil.grogan.ie/2006/04/google-will-organise-your-life</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/04/google-will-organise-your-life.html"/>
     <title>Google will organise your life</title>
-    <updated>2006-04-16T00:00:00+01:00</updated>
+    <updated>2006-04-16T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8010,7 +8010,7 @@ market share at expense of MSN and Yahoo, Google is here to stay.&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/04/ekigas-vorbis</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/04/ekigas-vorbis.html"/>
     <title>Ekiga's Vorbis</title>
-    <updated>2006-04-13T00:00:00+01:00</updated>
+    <updated>2006-04-13T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8055,7 +8055,7 @@ us!
     <id>http://neil.grogan.ie/2006/04/europes-new-voice</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/04/europes-new-voice.html"/>
     <title>Europe's New Voice</title>
-    <updated>2006-04-09T00:00:00+01:00</updated>
+    <updated>2006-04-09T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8095,7 +8095,7 @@ makes us all proud to be part of the largest trading block in the world.
     <id>http://neil.grogan.ie/2006/03/bebo-and-beyond</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/03/bebo-and-beyond.html"/>
     <title>Bebo and Beyond..</title>
-    <updated>2006-03-28T00:00:00+01:00</updated>
+    <updated>2006-03-28T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8149,7 +8149,7 @@ or Bebo….ugggh such a hard choice!&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/03/mozillas-millions</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/03/mozillas-millions.html"/>
     <title>Mozilla's Millions</title>
-    <updated>2006-03-26T00:00:00+00:00</updated>
+    <updated>2006-03-26T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8198,7 +8198,7 @@ big developers, and increase its workforce form 40 to 150.
     <id>http://neil.grogan.ie/2006/03/just-klik-it</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/03/just-klik-it.html"/>
     <title>Just Klik it!</title>
-    <updated>2006-03-25T00:00:00+00:00</updated>
+    <updated>2006-03-25T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8242,7 +8242,7 @@ Del.icio.us&lt;/a&gt;&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/03/virtual-ubuntu</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/03/virtual-ubuntu.html"/>
     <title>Virtual Ubuntu</title>
-    <updated>2006-03-10T00:00:00+00:00</updated>
+    <updated>2006-03-10T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8279,7 +8279,7 @@ of charge.&lt;/a&gt; &lt;em&gt;**&lt;/em&gt;  &lt;/p&gt;
     <id>http://neil.grogan.ie/2006/03/linux-vs-windows</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/03/linux-vs-windows.html"/>
     <title>Linux VS. Windows</title>
-    <updated>2006-03-06T00:00:00+00:00</updated>
+    <updated>2006-03-06T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8349,7 +8349,7 @@ life, and its due to change more lives this century than ever before.&lt;/p&gt;
     <id>http://neil.grogan.ie/2006/03/gallery-riots-and-policy-change</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/03/gallery-riots-and-policy-change.html"/>
     <title>Gallery, Riots and Policy Change</title>
-    <updated>2006-03-02T00:00:00+00:00</updated>
+    <updated>2006-03-02T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8400,7 +8400,7 @@ expect it soon! &lt;em&gt;**&lt;/em&gt;
     <id>http://neil.grogan.ie/2006/02/german-trip</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/02/german-trip.html"/>
     <title>German Trip</title>
-    <updated>2006-02-13T00:00:00+00:00</updated>
+    <updated>2006-02-13T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8444,7 +8444,7 @@ I should have photos soon!
     <id>http://neil.grogan.ie/2006/01/wiki-awards-and-wifi</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/01/wiki-awards-and-wifi.html"/>
     <title>Wiki, Awards and Wifi</title>
-    <updated>2006-01-22T00:00:00+00:00</updated>
+    <updated>2006-01-22T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8480,7 +8480,7 @@ needs a head examination! &lt;br /&gt;
     <id>http://neil.grogan.ie/2006/01/new-year-lets-review</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2006/01/new-year-lets-review.html"/>
     <title>New Year, Lets Review!</title>
-    <updated>2006-01-06T00:00:00+00:00</updated>
+    <updated>2006-01-06T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8539,7 +8539,7 @@ Time Magazine doesn’t give iPod gadget of the century this year! &lt;br /&gt;
     <id>http://neil.grogan.ie/2005/12/million-dollars-nice</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/million-dollars-nice.html"/>
     <title>Million Dollars, Nice!</title>
-    <updated>2005-12-30T00:00:00+00:00</updated>
+    <updated>2005-12-30T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8584,7 +8584,7 @@ do with his new found fortune.&lt;/p&gt;
     <id>http://neil.grogan.ie/2005/12/internet-tablet</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/internet-tablet.html"/>
     <title>Nokia 770 Internet Tablet</title>
-    <updated>2005-12-23T00:00:00+00:00</updated>
+    <updated>2005-12-23T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8655,7 +8655,7 @@ Anywhere you think I should go? Please tell me, it will be useful!&lt;/p&gt;
     <id>http://neil.grogan.ie/2005/12/google-video</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/google-video.html"/>
     <title>Google Video</title>
-    <updated>2005-12-23T00:00:00+00:00</updated>
+    <updated>2005-12-23T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8685,7 +8685,7 @@ called &lt;a href=&quot;http://video.google.com/videoplay?docid=-329292565715926
     <id>http://neil.grogan.ie/2005/12/click-online</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/click-online.html"/>
     <title>Click Online</title>
-    <updated>2005-12-23T00:00:00+00:00</updated>
+    <updated>2005-12-23T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8705,7 +8705,7 @@ are explained fully.&lt;/p&gt;
     <id>http://neil.grogan.ie/2005/12/eurosceptics</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/eurosceptics.html"/>
     <title>Eurosceptics</title>
-    <updated>2005-12-17T00:00:00+00:00</updated>
+    <updated>2005-12-17T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8745,7 +8745,7 @@ identity with France or Germany any more!&lt;/p&gt;
     <id>http://neil.grogan.ie/2005/12/future</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/future.html"/>
     <title>The Future.....</title>
-    <updated>2005-12-16T00:00:00+00:00</updated>
+    <updated>2005-12-16T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8770,7 +8770,7 @@ and Del.icio.us.&lt;/p&gt;
     <id>http://neil.grogan.ie/2005/12/in-sickness-and-in-health</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/in-sickness-and-in-health.html"/>
     <title>In Sickness and in Health!</title>
-    <updated>2005-12-14T00:00:00+00:00</updated>
+    <updated>2005-12-14T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8792,7 +8792,7 @@ to play and view all their media.&lt;/p&gt;
     <id>http://neil.grogan.ie/2005/12/wireless-new-design-and-web-services</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2005/12/wireless-new-design-and-web-services.html"/>
     <title>Wireless, New Design and Web Services</title>
-    <updated>2005-12-10T00:00:00+00:00</updated>
+    <updated>2005-12-10T00:00:00+01:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
@@ -8832,7 +8832,7 @@ space on the page.&lt;/p&gt;
     <id>http://neil.grogan.ie/2004/10/duey-finster</id>
     <link type="text/html" rel="alternate" href="http://neil.grogan.ie/2004/10/duey-finster.html"/>
     <title>Duey Finster</title>
-    <updated>2004-10-24T00:00:00+01:00</updated>
+    <updated>2004-10-24T00:00:00+02:00</updated>
     <author>
       <name>Neil Grogan</name>
       <uri>http://neil.grogan.ie/</uri>
